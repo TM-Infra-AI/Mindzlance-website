@@ -1,0 +1,9 @@
+[01-Mar-2023 23:59:05 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/mindzlance/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[01-Mar-2023 23:59:05 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/mindzlance/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[01-Mar-2023 23:59:05 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/mindzlance/public_html/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[01-Mar-2023 23:59:05 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Aws\Sns\Message::__construct() must be of the type array, null given, called in /home/mindzlance/public_html/wp-content/plugins/w3-total-cache/Enterprise_SnsServer.php on line 18 and defined in /home/mindzlance/public_html/wp-content/plugins/w3-total-cache/lib/Aws/Aws/Sns/Message.php:82
+Stack trace:
+#0 /home/mindzlance/public_html/wp-content/plugins/w3-total-cache/Enterprise_SnsServer.php(18): Aws\Sns\Message->__construct(NULL)
+#1 /home/mindzlance/public_html/wp-content/plugins/w3-total-cache/pub/sns.php(58): W3TC\Enterprise_SnsServer->process_message(NULL)
+#2 {main}
+  thrown in /home/mindzlance/public_html/wp-content/plugins/w3-total-cache/lib/Aws/Aws/Sns/Message.php on line 82

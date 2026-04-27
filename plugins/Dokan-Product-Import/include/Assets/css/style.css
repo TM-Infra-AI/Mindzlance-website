@@ -1,0 +1,235 @@
+form.query_form_customer {
+    max-width: 200px;
+}
+form.query_form_customer input[type=text],
+form.query_form_customer textarea{
+  margin-bottom: 5px;
+  border-color: #b7b7b7;
+  border-radius: 3px;
+}
+form.query_form_customer input[type=submit]{
+    color: #fff;
+    background-color: #f05025;
+    border-color: #f05025;
+    border-radius: 3px;
+}
+form.query_form_customer input[type=submit]:hover{
+    color: #fff;
+    background-color: #ca360e;
+    border-color: #ca360e;
+}
+.openbox {
+    border: 1px solid #d6d6d6;
+    margin-top: 10px;
+}
+.openbox>.detail {
+    background-color: #ffffff;
+    padding: 10px;
+}
+.openbox>.detail>.icon {
+    background-color: #fff6f3;
+    padding: 5px 6px;
+    border: 1px solid #ffd3c0;
+    margin-right: 15px;
+    color: #000;
+    display: inline-block;
+    vertical-align: top;
+}
+.openbox>.detail>.icon img {
+    height: 17px;
+}
+.openbox>.detail>.issue {
+    display: inline-block;
+    width: 60%;
+}
+.openbox>.detail>.issue h3 {
+    margin: 0;
+    font-weight: bold;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.ticket_chat_cus a {
+    color: #fc4c02;
+    margin-top: 10px;
+    display: inline-block;
+}
+.ticket_chat_cus a:hover {
+    color: #ca360e;
+}
+.lg{
+    text-align: center;
+    color: #FFF;
+}
+.openbox>.detail>.issue p{
+    margin-bottom: 0;
+    font-size: 12px;
+}
+.openbox>.detail>.issue-posted{
+    float: right;
+}
+.ticket_chat_cus_inner>.ticket_chat_inner {
+    height: 250px;
+    overflow-y: scroll;
+}
+.ticket_chat_cus_inner>.ticket_chat_inner>.cbox {
+    border: 1px solid #ffc4b4;
+    margin-top: 10px;
+}
+.ticket_chat_cus_inner>.ticket_chat_inner>.cbox>.detail {
+    background-color: #fff5f2;
+    padding: 10px;
+}
+.ticket_chat_cus_inner>.ticket_chat_inner>.cbox>.detail>.icon {
+    display: inline-block;
+    background-color: #ffffff;
+    padding: 5px 10px;
+    border: 1px solid #dcdcdc;
+    margin-right: 15px;
+    line-height: normal;
+    vertical-align: top;
+    margin-top: 4px;
+}
+.ticket_chat_cus_inner>.ticket_chat_inner>.cbox>.detail>.issue,
+.ticket_chat_cus_inner>.ticket_chat_inner>.vbox>.detail>.issue {
+    display: inline-block;
+    width: 60%;
+}
+.ticket_chat_cus_inner>.ticket_chat_inner>.cbox>.detail>.issue h3 {
+    margin: 0;
+    font-weight: bold;
+}
+.ticket_chat_cus_inner>.ticket_chat_inner>.cbox>.detail>.issue p,
+.ticket_chat_cus_inner>.ticket_chat_inner>.vbox>.detail>.issue p {
+    margin-bottom: 0;
+    font-size: 12px;
+}
+.ticket_chat_cus_inner>.ticket_chat_inner>.cbox>.detail>.issue p::first-letter,
+.ticket_chat_cus_inner>.ticket_chat_inner>.vbox>.detail>.issue p::first-letter {
+    text-transform: uppercase;
+}
+.ticket_chat_cus_inner>.ticket_chat_inner>.cbox>.detail>.issue-posted{
+    float: right;
+    margin-top: 15px;
+}
+.ticket_chat_cus_inner>.ticket_chat_inner>.vbox>.detail>.issue-posted {
+    float: right;
+}
+.ticket_chat_cus_inner>.ticket_chat_inner>.cbox>.issue-disc,
+.ticket_chat_cus_inner>.ticket_chat_inner>.vbox>.issue-disc {
+    padding: 10px;
+    margin-left: 45px;
+}
+.ticket_chat_cus_inner>.ticket_chat_inner>.cbox>.issue-disc p, 
+.ticket_chat_cus_inner>.ticket_chat_inner>.vbox>.issue-disc p {
+    word-break: break-all;
+}
+.ticket_chat_cus_inner>.ticket_chat_inner>.vbox {
+    border: 1px solid #a1cdfb;
+    margin-top: 10px;
+}
+.ticket_chat_cus_inner>.ticket_chat_inner>.vbox>.detail {
+    background-color: #f0f7ff;
+    padding: 10px;
+}
+.ticket_chat_cus_inner>.ticket_chat_inner>.vbox>.detail>.icon {
+    display: inline-block;
+    background-color: #ffffff;
+    padding: 5px 10px;
+    border: 1px solid #a1cdfb;
+    margin-right: 15px;
+    line-height: normal;
+}
+.ticket_chat_cus_inner textarea {
+    width: 100%;
+    border: 1px solid #CCC;
+    height: 80px;
+    margin-top: 10px;
+}
+.ticket_chat_cus_inner input[type="submit"],
+.ticket_chat_cus_inner button {
+    margin-top: 5px;
+    width: 100%;
+    background-color: #f05126;
+    color: #FFF;
+    height: 40px;
+    border: none;
+}
+
+
+/*Ashok popup*/
+/* The Modal (background) */
+.modal {
+    padding-top: 50px; /* Location of the box */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+/* Modal Content */
+.modal-content {
+    margin: auto;
+    padding: 0;
+    width: 70%;
+    animation-name: animatetop;
+    animation-duration: 0.4s
+}
+/* Add Animation */
+@-webkit-keyframes animatetop {
+    from {top:-300px; opacity:0} 
+    to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+    from {top:-300px; opacity:0}
+    to {top:0; opacity:1}
+}
+.modal-header {
+    padding: 2px 16px;
+}
+#myModal h2 {
+    margin: 0;
+}
+.modal-body {padding: 2px 16px;}
+.order_ticket {
+    display: inline-block;
+    width: 40%;
+    margin-right: 2%;
+    vertical-align: top;
+}
+.order_ticket h3 {
+    margin: 0 0 10px 0;
+}
+.order_ticket table {
+    border: 1px solid #c5c5c5;
+    width: 100%;
+    background-color: #FFF;
+}
+.order_ticket th {
+    background-color: #fff5f2;
+}
+.order_ticket th,
+.order_ticket td {
+    padding: 5px;
+    text-align: center;
+    border-right: 1px solid #c5c5c5;
+    border-bottom: 1px solid #c5c5c5;
+}
+.order_ticket th:last-child,
+.order_ticket td:last-child {
+    border-right: 0;
+}
+.order_ticket td button {
+    background-color: #f05025;
+    color: #FFF;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 2px;
+}
+.order_ticket td button:hover {
+    background-color: #dd3b0f;
+    color: #FFF;
+}
+.order_ticket tr:nth-child(odd) td {
+    background-color: #f5f5f5;
+}
+#chatModal {
+    display: inline-block;
+    width: 57%;
+}

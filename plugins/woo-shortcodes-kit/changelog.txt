@@ -1,0 +1,57 @@
+----------------------------------------------------------------------------------------------------------------------
+Woo Shortcodes Kit v 1.9.9 (30/05/21) by Alberto G. - https://disespubli.com/
+
+Included:
+
+== Changelog ==
+
+= 1.9.9 =
+ *Changelog (30/05/21)
+ 
+
+NEW
+-----------
+
++ Shortcode to display the billing data separately, now you can display the customer billing Street (second line)
+
++ Shortcode to display the billing data separately, now you can display the customer billing Country (code)
+
++ Shortcode to display the billing data separately, now you can display the customer billing Country (name)
+
++ Shortcode to display the billing data separately, now you can display the customer billing Stare/Province (code)
+
++ Shortcode to display the billing data separately, now you can display the customer billing Stare/Province (name)
+
++ Shortcode to display the shipping data separately, now you can display the customer shipping Street (second line)
+
++ Shortcode to display the shipping data separately, now you can display the customer shipping Country (code)
+
++ Shortcode to display the shipping data separately, now you can display the customer shipping Country (name)
+
++ Shortcode to display the shipping data separately, now you can display the customer shipping Stare/Province (code)
+
++ Shortcode to display the shipping data separately, now you can display the customer shipping Stare/Province (name)
+
+
+UPDATED
+-----------
+
++ Spanish language template
++ Brazilian/Portuguese language template
+
+
+COMPATIBILITY TEST
+--------------------
+
++ Compatible with Easy My Account Builder 1.0.8
+
++ Compatible with WSHK PRO (old Custom Blocks & Redirections) v 1.1.6
+
++ Compatible with WordPress 5.7.2
+
++ Compatible with WooCommerce 5.3.0
+
++ Compatible with Php 7.4
+
+
+[Old changelogs](https://disespubli.com/docs/)

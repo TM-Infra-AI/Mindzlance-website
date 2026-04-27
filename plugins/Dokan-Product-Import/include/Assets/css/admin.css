@@ -1,0 +1,161 @@
+.ticket_chat_cus .ad_action {
+    width: 600px;
+}
+.ticket_chat_cus .ad_action form {
+    margin-top: 10px;
+}
+.ticket_chat_cus .ad_action select {
+    width: 200px;
+    height: 35px;
+    vertical-align: top;
+}
+.ticket_chat_cus .ad_action input {
+    color: #fff;
+    background-color: #f05025;
+    border: none;
+    padding: 7px 15px;
+    cursor: pointer;
+}
+.ticket_chat_cus .ad_action input:hover{
+    background-color:#dd3b0f;
+}
+.ticket_chat_cus_inner {
+    height: 250px;
+    overflow-y: auto;
+    width: 600px;
+    margin-top: 5px;
+}
+.openbox {
+    border: 1px solid #d6d6d6;
+    margin-top: 10px;
+}
+.openbox>.detail {
+    background-color: #ffffff;
+    padding: 10px;
+}
+.openbox>.detail>.icon {
+    float: left;
+    background-color: #fff6f3;
+    padding: 5px 10px;
+    border: 1px solid #ffd3c0;
+    margin-right: 15px;
+    color: #000;
+}
+.openbox>.detail>.issue {
+    display: inline-block;
+    width: 60%;
+}
+.openbox>.detail>.issue h3 {
+    margin: 0;
+    font-weight: bold;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.ticket_chat_cus a {
+    color: #fc4c02;
+    margin-top: 10px;
+    display: inline-block;
+}
+.ticket_chat_cus a:hover {
+    color: #ca360e;
+}
+.lg{
+    text-align: center;
+    color: #FFF;
+}
+.openbox>.detail>.issue p{
+    margin-bottom: 0;
+    font-size: 12px;
+}
+.openbox>.detail>.issue-posted{
+    float: right;
+}
+.ticket_chat_cus_inner>.cbox {
+    border: 1px solid #ffc4b4;
+    margin-top: 5px;
+    background-color: #FFF;
+}
+.ticket_chat_cus_inner>.cbox>.detail {
+    background-color: #fff5f2;
+    padding: 10px;
+}
+.ticket_chat_cus_inner>.cbox>.detail>.icon {
+    display: inline-block;
+    background-color: #ffffff;
+    padding: 5px 10px;
+    border: 1px solid #dcdcdc;
+    margin-right: 15px;
+    line-height: normal;
+    vertical-align: top;
+    margin-top: 4px;
+}
+.ticket_chat_cus_inner>.cbox>.detail>.issue,
+.ticket_chat_cus_inner>.vbox>.detail>.issue {
+    display: inline-block;
+    width: 60%;
+}
+.ticket_chat_cus_inner>.cbox>.detail>.issue h3 {
+    margin: 0;
+    font-weight: bold;
+}
+.ticket_chat_cus_inner>.cbox>.detail>.issue p,
+.ticket_chat_cus_inner>.vbox>.detail>.issue p {
+    margin: 0;
+    font-size: 12px;
+}
+.ticket_chat_cus_inner>.cbox>.detail>.issue p::first-letter,
+.ticket_chat_cus_inner>.vbox>.detail>.issue p::first-letter {
+    text-transform: uppercase;
+}
+.ticket_chat_cus_inner>.cbox>.detail>.issue-posted{
+    float: right;
+    margin-top: 8px;
+}
+.ticket_chat_cus_inner>.vbox>.detail>.issue-posted {
+    float: right;
+}
+.ticket_chat_cus_inner>.cbox>.issue-disc,
+.ticket_chat_cus_inner>.vbox>.issue-disc {
+    padding: 10px;
+    margin-left: 45px;
+}
+.ticket_chat_cus_inner>.cbox>.issue-disc p, 
+.ticket_chat_cus_inner>.vbox>.issue-disc p {
+    word-break: break-all;
+}
+.ticket_chat_cus_inner>.vbox {
+    border: 1px solid #a1cdfb;
+    margin-top: 5px;
+    background-color: #FFF;
+}
+.ticket_chat_cus_inner>.vbox>.detail {
+    background-color: #f0f7ff;
+    padding: 10px;
+}
+.ticket_chat_cus_inner>.vbox>.detail>.icon {
+    display: inline-block;
+    background-color: #ffffff;
+    padding: 5px 10px;
+    border: 1px solid #a1cdfb;
+    margin-right: 15px;
+    line-height: normal;
+}
+.ticket_chat_cus_inner form {
+    background-color: #FFF;
+    margin-top: 10px;
+}
+.ticket_chat_cus_inner form textarea {
+    width: 100%;
+    border: 1px solid #CCC;
+    height: 80px;
+}
+.ticket_chat_cus_inner form input[type="submit"] {
+    margin-top: 5px;
+    width: 100%;
+    background-color: #f05126;
+    color: #FFF;
+    height: 40px;
+}
+li#toplevel_page_orders-tickets-details {
+    display: none;
+}

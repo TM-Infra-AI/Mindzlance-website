@@ -1,0 +1,8 @@
+[23-May-2023 20:59:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home/mindzlance/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mindzlance/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 21
+[23-May-2023 20:59:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home/mindzlance/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mindzlance/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 21

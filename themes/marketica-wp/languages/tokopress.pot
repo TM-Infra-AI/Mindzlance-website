@@ -1,0 +1,2973 @@
+# Copyright (C) 2018 TokoPress
+# This file is distributed under the GPL License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Marketica WP 4.4.1\n"
+"Report-Msgid-Bugs-To: http://toko.press\n"
+"POT-Creation-Date: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: TokoPress <support@toko.press>\n"
+"Language-Team: TokoPress <support@toko.press>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: author.php:69
+msgid "%s does not have personal biography."
+msgstr ""
+
+#: block-content-title.php:11 block-page-header-inner.php:11
+#: block-page-header-outer.php:11 inc/functions/breadcrumb.php:274
+#: inc/woocommerce/frontend.php:21
+msgid "Home"
+msgstr ""
+
+#: block-content-title.php:15 block-page-header-inner.php:15
+#: block-page-header-outer.php:15 inc/theme/designs2.php:91
+msgid "Blog"
+msgstr ""
+
+#: block-content-title.php:19 block-page-header-inner.php:19
+#: block-page-header-outer.php:19
+msgid "Categories: %s"
+msgstr ""
+
+#: block-content-title.php:23 block-page-header-inner.php:23
+#: block-page-header-outer.php:23
+msgid "Tags: %s"
+msgstr ""
+
+#: block-content-title.php:39 block-page-header-inner.php:39
+#: block-page-header-outer.php:39
+msgid "F d, Y"
+msgstr ""
+
+#: block-content-title.php:43 block-page-header-inner.php:43
+#: block-page-header-outer.php:43 inc/functions/breadcrumb.php:1240
+msgid "F Y"
+msgstr ""
+
+#: block-content-title.php:47 block-page-header-inner.php:47
+#: block-page-header-outer.php:47 inc/functions/breadcrumb.php:285
+#: inc/functions/breadcrumb.php:1235 inc/theme/frontend.php:247
+#: inc/theme/frontend.php:253
+msgid "Y"
+msgstr ""
+
+#: block-content-title.php:53 block-page-header-inner.php:53
+#: block-page-header-outer.php:53
+msgid "Projects"
+msgstr ""
+
+#: block-content-title.php:57 block-page-header-inner.php:57
+#: block-page-header-outer.php:57
+msgid "Shop"
+msgstr ""
+
+#: block-content-title.php:61 block-page-header-inner.php:61
+#: block-page-header-outer.php:61 inc/functions/breadcrumb.php:278
+msgid "Archives"
+msgstr ""
+
+#: block-content-title.php:75 block-page-header-inner.php:75
+#: block-page-header-outer.php:75 dokan/store-reviews.php:65
+msgid "No Result Found"
+msgstr ""
+
+#: block-entry-meta.php:8
+msgid "written by"
+msgstr ""
+
+#: block-entry-meta.php:16
+msgid "Filed Under"
+msgstr ""
+
+#: block-entry-meta.php:21
+msgid "View all posts in %s"
+msgstr ""
+
+#: block-footer-widget.php:20 block-footer-widget.php:37
+#: block-footer-widget.php:54 block-footer-widget.php:71 functions.php:88
+#: functions.php:99 functions.php:110 functions.php:121
+msgid "Footer Widget %1$s"
+msgstr ""
+
+#: block-footer-widget.php:22 block-footer-widget.php:39
+#: block-footer-widget.php:56 block-footer-widget.php:73
+msgid ""
+"This is \"%1$s\" widget area. Visit your %2$s to add new widget to this "
+"area."
+msgstr ""
+
+#: block-footer-widget.php:22 block-footer-widget.php:39
+#: block-footer-widget.php:56 block-footer-widget.php:73
+msgid "Widgets Page"
+msgstr ""
+
+#: block-search-dokanlivesearch.php:11
+msgid "All"
+msgstr ""
+
+#: comments.php:19
+msgid "Says"
+msgstr ""
+
+#: comments.php:20
+msgid "Reply"
+msgstr ""
+
+#: comments.php:25
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:45
+msgid "No Comment"
+msgstr ""
+
+#: comments.php:45
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:45
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:64
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:70
+msgid "Name"
+msgstr ""
+
+#: comments.php:71
+msgid "Email"
+msgstr ""
+
+#: comments.php:72
+msgid "Website"
+msgstr ""
+
+#: comments.php:76
+msgid "post your comment here!"
+msgstr ""
+
+#: comments.php:78
+msgid "Post comment"
+msgstr ""
+
+#: content-404.php:9
+msgid "Nothing Found"
+msgstr ""
+
+#: content-404.php:10
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-page.php:15
+msgid "Pages:"
+msgstr ""
+
+#: dokan/block-more-products.php:50 sociovendors/block-more-products.php:45
+#: wc-vendors/block-more-products.php:41 woovendors/block-more-products.php:45
+msgid "More from this seller&hellip;"
+msgstr ""
+
+#: dokan/store-reviews.php:60
+msgid "Seller Review"
+msgstr ""
+
+#: dokan/store-reviews.php:84
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: dokan/store-reviews.php:85
+msgid "out of 5"
+msgstr ""
+
+#: dokan/store-toc.php:50
+msgid "Terms And Conditions"
+msgstr ""
+
+#: dokan/store.php:75
+msgid "No products were found of this seller!"
+msgstr ""
+
+#: functions.php:70
+msgid "Primary Menu - Header"
+msgstr ""
+
+#: functions.php:71
+msgid "Secondary Menu - Below Header"
+msgstr ""
+
+#: functions.php:76
+msgid "Main Widget"
+msgstr ""
+
+#: functions.php:78
+msgid "Widgets in this area will be shown in Main sidebar(right content)."
+msgstr ""
+
+#: functions.php:90 functions.php:101 functions.php:112 functions.php:123
+msgid "Widgets in this area will be shown in Footer Widget."
+msgstr ""
+
+#: functions.php:133
+msgid "Shop Widget"
+msgstr ""
+
+#: functions.php:135
+msgid ""
+"Widgets in this area will be shown in Shop sidebar (right content). Main "
+"Widget will be used when Shop Widget is empty."
+msgstr ""
+
+#: functions.php:145
+msgid "Single Product Widget"
+msgstr ""
+
+#: functions.php:147
+msgid ""
+"Widgets in this area will be shown in Single Product sidebar (right "
+"content)."
+msgstr ""
+
+#: functions.php:227
+msgid "Phone Number"
+msgstr ""
+
+#: functions.php:228
+msgid "Facebook Profile URL"
+msgstr ""
+
+#: functions.php:229
+msgid "Google Plus Profil URL"
+msgstr ""
+
+#: functions.php:230
+msgid "Twitter Profile URL"
+msgstr ""
+
+#: functions.php:231
+msgid "Instagram Profile URL"
+msgstr ""
+
+#: functions.php:232
+msgid "Linkedin Profile URL"
+msgstr ""
+
+#: functions.php:233
+msgid "Youtube Profile URL"
+msgstr ""
+
+#: functions.php:234
+msgid "Pinterest Profile URL"
+msgstr ""
+
+#: functions.php:235
+msgid "Flickr Profile URL"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:273
+msgid "Browse:"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:275
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: inc/functions/breadcrumb.php:276
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:277
+msgid "Page %d"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:279 inc/theme/frontend.php:235
+msgid "g:i a"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:280
+msgid "Minute %d"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:281 inc/theme/frontend.php:241
+msgid "g a"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:282
+msgid "d"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:283
+msgid "Week %d"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:284
+msgid "F"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:1245
+msgid "F j, Y"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:1340 inc/functions/breadcrumb.php:1376
+#: inc/functions/breadcrumb.php:1393 inc/functions/breadcrumb.php:1424
+msgid "Edit"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:1368
+msgid "Split"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:1372
+msgid "Merge"
+msgstr ""
+
+#: inc/functions/contact-form.php:14
+msgid "Leave a message"
+msgstr ""
+
+#: inc/functions/contact-form.php:15
+msgid "Message via the contact form"
+msgstr ""
+
+#: inc/functions/contact-form.php:19
+msgid "Submit"
+msgstr ""
+
+#: inc/functions/contact-form.php:45
+msgid "Please enter your name"
+msgstr ""
+
+#: inc/functions/contact-form.php:49
+msgid "Please enter your email address (and please make sure it's valid)"
+msgstr ""
+
+#: inc/functions/contact-form.php:53
+msgid "Please enter your message"
+msgstr ""
+
+#: inc/functions/contact-form.php:58
+msgid "Your answer was wrong!"
+msgstr ""
+
+#: inc/functions/contact-form.php:61
+msgid "Please enter your answer"
+msgstr ""
+
+#: inc/functions/contact-form.php:65
+msgid "There were one or more errors while submitting the form."
+msgstr ""
+
+#: inc/functions/contact-form.php:84 inc/widget/widget_social.php:200
+msgid "Email:"
+msgstr ""
+
+#: inc/functions/contact-form.php:85
+msgid "Name:"
+msgstr ""
+
+#: inc/functions/contact-form.php:86
+msgid "IP Address:"
+msgstr ""
+
+#: inc/functions/contact-form.php:86
+msgid "User Agent:"
+msgstr ""
+
+#: inc/functions/contact-form.php:96
+msgid "[COPY]"
+msgstr ""
+
+#: inc/functions/contact-form.php:105
+msgid "Your email was successfully sent."
+msgstr ""
+
+#: inc/functions/contact-form.php:108
+msgid ""
+"There were technical error while submitting the form. Sorry for the "
+"inconvenience."
+msgstr ""
+
+#: inc/functions/contact-form.php:122
+msgid "E-mail has not been setup properly. Please add your contact e-mail!"
+msgstr ""
+
+#: inc/functions/contact-form.php:136
+msgid "Your Name"
+msgstr ""
+
+#: inc/functions/contact-form.php:143
+msgid "Your Email"
+msgstr ""
+
+#: inc/functions/contact-form.php:152
+msgid "Your Message"
+msgstr ""
+
+#: inc/functions/contact-form.php:162
+msgid "Your Answer"
+msgstr ""
+
+#: inc/functions/contact-form.php:175
+msgid "Send a copy of this email to you"
+msgstr ""
+
+#: inc/functions/contact-form.php:185
+msgid "If you want to submit this form, do not enter anything in this field"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:337
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:339
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:377
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:393
+#: inc/tgm/class-tgm-plugin-activation.php:912
+#: inc/tgm/class-tgm-plugin-activation.php:2618
+#: inc/tgm/class-tgm-plugin-activation.php:3669
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:394
+#: inc/tgm/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+#: inc/tgm/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:399
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:401
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1019
+#: inc/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2067
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2477
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2481
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2485
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2688
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2693
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2699
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3583
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3586
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3588
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3594
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3597
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3602
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3605
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3609
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3609
+msgid "Hide Details"
+msgstr ""
+
+#: inc/theme/designs2.php:14
+msgid "Basic Colors"
+msgstr ""
+
+#: inc/theme/designs2.php:16
+msgid "Background"
+msgstr ""
+
+#: inc/theme/designs2.php:28
+msgid "TP - Fonts & Colors"
+msgstr ""
+
+#: inc/theme/designs2.php:41
+msgid "Basic Fonts"
+msgstr ""
+
+#: inc/theme/designs2.php:51
+msgid "Primary Font"
+msgstr ""
+
+#: inc/theme/designs2.php:60
+msgid "Secondary Font"
+msgstr ""
+
+#: inc/theme/designs2.php:74
+msgid "Body Text Color"
+msgstr ""
+
+#: inc/theme/designs2.php:82
+msgid "Link Color"
+msgstr ""
+
+#: inc/theme/designs2.php:98
+msgid "Blog - Post Title Color"
+msgstr ""
+
+#: inc/theme/designs2.php:106
+msgid "Blog - Post Meta Text Color"
+msgstr ""
+
+#: inc/theme/designs2.php:114
+msgid "Blog - Post Meta Link Color"
+msgstr ""
+
+#: inc/theme/designs2.php:147
+msgid "Pagination"
+msgstr ""
+
+#: inc/theme/designs2.php:154
+msgid "Pagination - Link Color"
+msgstr ""
+
+#: inc/theme/designs2.php:162
+msgid "Pagination - Active Color"
+msgstr ""
+
+#: inc/theme/designs2.php:171
+msgid "Table"
+msgstr ""
+
+#: inc/theme/designs2.php:178
+msgid "Table - Heading Background Color"
+msgstr ""
+
+#: inc/theme/designs2.php:193 inc/theme/options2.php:57
+msgid "Header - Top (Logo & Menu)"
+msgstr ""
+
+#: inc/theme/designs2.php:201
+msgid "Header - Background Color"
+msgstr ""
+
+#: inc/theme/designs2.php:210 inc/theme/options2.php:82
+#: inc/theme/options2.php:90
+msgid "Site Logo"
+msgstr ""
+
+#: inc/theme/designs2.php:217
+msgid "Logo - Background Color"
+msgstr ""
+
+#: inc/theme/designs2.php:225
+msgid "Logo - Text Color"
+msgstr ""
+
+#: inc/theme/designs2.php:234
+msgid "Primary Menu / Header Menu"
+msgstr ""
+
+#: inc/theme/designs2.php:241
+msgid "Primary Menu - Text Color"
+msgstr ""
+
+#: inc/theme/designs2.php:249
+msgid "Primary Menu - Text Color (Hover)"
+msgstr ""
+
+#: inc/theme/designs2.php:258
+msgid "Minicart Quicknav"
+msgstr ""
+
+#: inc/theme/designs2.php:265
+msgid "Minicart Quicknav - Background"
+msgstr ""
+
+#: inc/theme/designs2.php:273
+msgid "Minicart Quicknav - Icon Color"
+msgstr ""
+
+#: inc/theme/designs2.php:281
+msgid "Minicart Quicknav - Text Color"
+msgstr ""
+
+#: inc/theme/designs2.php:290
+msgid "Secondary Menu / Below Header Menu"
+msgstr ""
+
+#: inc/theme/designs2.php:297
+msgid "Secondary Menu - Background"
+msgstr ""
+
+#: inc/theme/designs2.php:305
+msgid "Secondary Menu - Text Color"
+msgstr ""
+
+#: inc/theme/designs2.php:313
+msgid "Secondary Menu - Border Color"
+msgstr ""
+
+#: inc/theme/designs2.php:321
+msgid "Secondary Menu - Submenu Background (Hover)"
+msgstr ""
+
+#: inc/theme/designs2.php:330 inc/theme/designs2.php:409
+#: inc/theme/designs2.php:506 inc/theme/designs2.php:585
+#: inc/theme/designs2.php:632 inc/theme/options2.php:173
+#: inc/theme/options2.php:211 inc/theme/options2.php:313
+#: inc/theme/options2.php:345 inc/theme/options2.php:385
+#: inc/woocommerce/designs2.php:204 inc/woocommerce/designs2.php:343
+#: inc/woocommerce/designs2.php:411 inc/woocommerce/options2.php:223
+#: inc/woocommerce/options2.php:508 inc/woocommerce/options2.php:552
+#: inc/woocommerce/plugin-dokan.php:360 inc/woocommerce/plugin-dokan.php:611
+#: inc/woocommerce/plugin-wcvendors.php:344
+#: inc/woocommerce/plugin-wcvendors.php:639
+#: inc/woocommerce/plugin-woovendors.php:261
+#: inc/woocommerce/plugin-woovendors.php:487
+msgid "More ..."
+msgstr ""
+
+#: inc/theme/designs2.php:331 inc/theme/designs2.php:410
+#: inc/theme/designs2.php:507 inc/theme/designs2.php:586
+#: inc/theme/designs2.php:633 inc/woocommerce/designs2.php:205
+#: inc/woocommerce/designs2.php:344 inc/woocommerce/designs2.php:412
+#: inc/woocommerce/plugin-dokan.php:612
+#: inc/woocommerce/plugin-wcvendors.php:640
+#: inc/woocommerce/plugin-woovendors.php:488
+msgid "Go to Theme Options of this section"
+msgstr ""
+
+#: inc/theme/designs2.php:344 inc/theme/options2.php:25
+msgid "Header - Page Header"
+msgstr ""
+
+#: inc/theme/designs2.php:353
+msgid "Page Title"
+msgstr ""
+
+#: inc/theme/designs2.php:360
+msgid "Page Title - Background Color"
+msgstr ""
+
+#: inc/theme/designs2.php:368
+msgid "Page Title - Text Color"
+msgstr ""
+
+#: inc/theme/designs2.php:377
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/theme/designs2.php:384
+msgid "Breadcrumb - Text Color"
+msgstr ""
+
+#: inc/theme/designs2.php:392
+msgid "Breadcrumb - Link Color"
+msgstr ""
+
+#: inc/theme/designs2.php:400
+msgid "Breadcrumb - Separator Color"
+msgstr ""
+
+#: inc/theme/designs2.php:424 inc/theme/options2.php:248
+#: inc/woocommerce/options2.php:53
+msgid "Sidebar"
+msgstr ""
+
+#: inc/theme/designs2.php:434 inc/theme/options2.php:257
+#: inc/theme/options2.php:433 inc/woocommerce/designs2.php:75
+#: inc/woocommerce/designs2.php:222 inc/woocommerce/designs2.php:362
+#: inc/woocommerce/designs2.php:430 inc/woocommerce/options2.php:28
+#: inc/woocommerce/options2.php:242 inc/woocommerce/options2.php:527
+#: inc/woocommerce/plugin-dokan.php:28 inc/woocommerce/plugin-dokan.php:182
+#: inc/woocommerce/plugin-dokan.php:221 inc/woocommerce/plugin-dokan.php:313
+#: inc/woocommerce/plugin-wcvendors.php:28
+#: inc/woocommerce/plugin-wcvendors.php:149
+#: inc/woocommerce/plugin-wcvendors.php:180
+#: inc/woocommerce/plugin-wcvendors.php:302
+#: inc/woocommerce/plugin-woovendors.php:28
+#: inc/woocommerce/plugin-woovendors.php:101
+#: inc/woocommerce/plugin-woovendors.php:140
+#: inc/woocommerce/plugin-woovendors.php:231
+msgid ""
+"These settings only affect %s. Please visit %s to see live preview for "
+"these settings."
+msgstr ""
+
+#: inc/theme/designs2.php:434 inc/theme/options2.php:257
+msgid "a page with sidebar"
+msgstr ""
+
+#: inc/theme/designs2.php:441
+msgid "Sidebar - Background Color"
+msgstr ""
+
+#: inc/theme/designs2.php:450
+msgid "Sidebar Widgets"
+msgstr ""
+
+#: inc/theme/designs2.php:457
+msgid "Sidebar Widgets - Title Color"
+msgstr ""
+
+#: inc/theme/designs2.php:465
+msgid "Sidebar Widgets - Text Color"
+msgstr ""
+
+#: inc/theme/designs2.php:473
+msgid "Sidebar Widgets - Link Color"
+msgstr ""
+
+#: inc/theme/designs2.php:481
+msgid "Sidebar Widgets - List Line Separator Color"
+msgstr ""
+
+#: inc/theme/designs2.php:490
+msgid "Statistisc Widget"
+msgstr ""
+
+#: inc/theme/designs2.php:497
+msgid "Statistic Widget - Number Color"
+msgstr ""
+
+#: inc/theme/designs2.php:520 inc/theme/options2.php:328
+msgid "Footer - Widgets"
+msgstr ""
+
+#: inc/theme/designs2.php:528
+msgid "Footer Widgets - Background Color"
+msgstr ""
+
+#: inc/theme/designs2.php:536
+msgid "Footer Widgets - Title Color"
+msgstr ""
+
+#: inc/theme/designs2.php:544
+msgid "Footer Widgets - Text Color"
+msgstr ""
+
+#: inc/theme/designs2.php:552
+msgid "Footer Widgets - Link Color"
+msgstr ""
+
+#: inc/theme/designs2.php:560
+msgid "Footer Widgets - List Line Separator Color"
+msgstr ""
+
+#: inc/theme/designs2.php:568
+msgid "Footer Widgets - Border Separator Color"
+msgstr ""
+
+#: inc/theme/designs2.php:576
+msgid "Footer Widgets - Border Top Color"
+msgstr ""
+
+#: inc/theme/designs2.php:586 inc/theme/options2.php:346
+msgid "Setup Footer Widgets"
+msgstr ""
+
+#: inc/theme/designs2.php:599 inc/theme/options2.php:360
+msgid "Footer - Credits"
+msgstr ""
+
+#: inc/theme/designs2.php:607
+msgid "Footer Credits - Background Color"
+msgstr ""
+
+#: inc/theme/designs2.php:615
+msgid "Footer Credits - Text Color"
+msgstr ""
+
+#: inc/theme/designs2.php:623
+msgid "Footer Credits - Link Color"
+msgstr ""
+
+#: inc/theme/designs2.php:646
+msgid "Footer - Back To Top"
+msgstr ""
+
+#: inc/theme/designs2.php:654
+msgid "Back To Top - Background Color"
+msgstr ""
+
+#: inc/theme/designs2.php:662
+msgid "Back To Top - Icon Color"
+msgstr ""
+
+#: inc/theme/frontend.php:201 woocommerce/loop/pagination.php:57
+msgid "Previous"
+msgstr ""
+
+#: inc/theme/frontend.php:202 woocommerce/loop/pagination.php:58
+msgid "Next"
+msgstr ""
+
+#: inc/theme/frontend.php:226
+msgid "404 - Not Found"
+msgstr ""
+
+#: inc/theme/frontend.php:228
+msgid "Search Results for \"%1$s\""
+msgstr ""
+
+#: inc/theme/frontend.php:235 inc/theme/frontend.php:241
+#: inc/theme/frontend.php:244 inc/theme/frontend.php:250
+#: inc/theme/frontend.php:253
+msgid "Archive for %1$s"
+msgstr ""
+
+#: inc/theme/frontend.php:238
+msgid "Archive for minute %1$s"
+msgstr ""
+
+#: inc/theme/frontend.php:238
+msgid "i"
+msgstr ""
+
+#: inc/theme/frontend.php:244
+msgid "F jS, Y"
+msgstr ""
+
+#: inc/theme/frontend.php:247
+msgid "Archive for week %1$s of %2$s"
+msgstr ""
+
+#: inc/theme/frontend.php:247
+msgid "W"
+msgstr ""
+
+#: inc/theme/frontend.php:268
+msgid "- Page %s"
+msgstr ""
+
+#: inc/theme/frontend.php:530 inc/woocommerce/frontend.php:497
+msgid "Log Out"
+msgstr ""
+
+#: inc/theme/frontend.php:533 inc/woocommerce/frontend.php:501
+msgid "Log In"
+msgstr ""
+
+#: inc/theme/options2.php:16 inc/theme/options2.php:19
+msgid "Favicon"
+msgstr ""
+
+#: inc/theme/options2.php:35
+msgid "TP - Theme Options"
+msgstr ""
+
+#: inc/theme/options2.php:43
+msgid "TP - Page Templates"
+msgstr ""
+
+#: inc/theme/options2.php:66
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/theme/options2.php:74
+msgid "ENABLE sticky header"
+msgstr ""
+
+#: inc/theme/options2.php:98
+msgid "Site Logo - Height (px)"
+msgstr ""
+
+#: inc/theme/options2.php:112
+msgid "Site Logo - Maximum Width (px)"
+msgstr ""
+
+#: inc/theme/options2.php:125
+msgid "Quick Navigation"
+msgstr ""
+
+#: inc/theme/options2.php:133
+msgid "DISABLE search quicknav"
+msgstr ""
+
+#: inc/theme/options2.php:141
+msgid "DISABLE account quicknav"
+msgstr ""
+
+#: inc/theme/options2.php:147
+msgid "ENABLE language selector quicknav for QTranslateX"
+msgstr ""
+
+#: inc/theme/options2.php:150
+msgid "ENABLE language selector quicknav for WPML"
+msgstr ""
+
+#: inc/theme/options2.php:165
+msgid "DISABLE minicart quicknav"
+msgstr ""
+
+#: inc/theme/options2.php:174 inc/theme/options2.php:212
+#: inc/theme/options2.php:314 inc/theme/options2.php:346
+#: inc/theme/options2.php:386 inc/woocommerce/options2.php:224
+#: inc/woocommerce/options2.php:509 inc/woocommerce/options2.php:553
+#: inc/woocommerce/plugin-dokan.php:361
+#: inc/woocommerce/plugin-wcvendors.php:345
+#: inc/woocommerce/plugin-woovendors.php:262
+msgid "Go to Theme Colors of this section"
+msgstr ""
+
+#: inc/theme/options2.php:188
+msgid "Page Header Style"
+msgstr ""
+
+#: inc/theme/options2.php:192 inc/woocommerce/plugin-dokan.php:75
+msgid "Inner / Content"
+msgstr ""
+
+#: inc/theme/options2.php:193 inc/woocommerce/plugin-dokan.php:74
+msgid "Outer / Header"
+msgstr ""
+
+#: inc/theme/options2.php:202
+msgid "Header Background"
+msgstr ""
+
+#: inc/theme/options2.php:226
+msgid "Header - Scripts"
+msgstr ""
+
+#: inc/theme/options2.php:235
+msgid "Header Scripts"
+msgstr ""
+
+#: inc/theme/options2.php:265 inc/theme/options2.php:282
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/theme/options2.php:269 inc/theme/options2.php:287
+msgid "Left"
+msgstr ""
+
+#: inc/theme/options2.php:270 inc/theme/options2.php:286
+msgid "Right"
+msgstr ""
+
+#: inc/theme/options2.php:299
+msgid "Sidebar Width"
+msgstr ""
+
+#: inc/theme/options2.php:337
+msgid "DISABLE Footer Widgets"
+msgstr ""
+
+#: inc/theme/options2.php:369
+msgid "DISABLE Footer Credits"
+msgstr ""
+
+#: inc/theme/options2.php:377
+msgid "Footer Credits Text"
+msgstr ""
+
+#: inc/theme/options2.php:400
+msgid "Footer - Scripts"
+msgstr ""
+
+#: inc/theme/options2.php:409
+msgid "Footer Scripts"
+msgstr ""
+
+#: inc/theme/options2.php:423
+msgid "Contact Page Template"
+msgstr ""
+
+#: inc/theme/options2.php:432 inc/woocommerce/designs2.php:74
+#: inc/woocommerce/designs2.php:221 inc/woocommerce/designs2.php:361
+#: inc/woocommerce/designs2.php:429 inc/woocommerce/options2.php:27
+#: inc/woocommerce/options2.php:241 inc/woocommerce/options2.php:526
+#: inc/woocommerce/plugin-dokan.php:27 inc/woocommerce/plugin-dokan.php:181
+#: inc/woocommerce/plugin-dokan.php:220 inc/woocommerce/plugin-dokan.php:312
+#: inc/woocommerce/plugin-wcvendors.php:27
+#: inc/woocommerce/plugin-wcvendors.php:148
+#: inc/woocommerce/plugin-wcvendors.php:179
+#: inc/woocommerce/plugin-wcvendors.php:301
+#: inc/woocommerce/plugin-woovendors.php:27
+#: inc/woocommerce/plugin-woovendors.php:100
+#: inc/woocommerce/plugin-woovendors.php:139
+#: inc/woocommerce/plugin-woovendors.php:230
+msgid "You are not in %s"
+msgstr ""
+
+#: inc/theme/options2.php:432 inc/theme/options2.php:433
+msgid "Page with Contact Page Template"
+msgstr ""
+
+#: inc/theme/options2.php:443
+msgid ""
+"These options are for everyone who use Contact Page Template. We use simple "
+"contact form here. If you need advanced contact form (with more fields and "
+"setting), we recommend you to use Contact Form 7, Caldera Forms, Ninja "
+"Forms, WP Forms, or Gravity Forms plugin."
+msgstr ""
+
+#: inc/theme/options2.php:451
+msgid "Contact Map"
+msgstr ""
+
+#: inc/theme/options2.php:459
+msgid "DISABLE Google Map in Contact page template"
+msgstr ""
+
+#: inc/theme/options2.php:467
+msgid "Google Maps API Key (recommended)"
+msgstr ""
+
+#: inc/theme/options2.php:468 inc/woocommerce/plugin-dokan.php:149
+msgid ""
+"Usage of the Google Maps APIs now requires a key if your domain was not "
+"active prior to June 22nd, 2016."
+msgstr ""
+
+#: inc/theme/options2.php:468 inc/woocommerce/plugin-dokan.php:149
+msgid "Click here to get your Google Maps API key"
+msgstr ""
+
+#: inc/theme/options2.php:477
+msgid "Latitude"
+msgstr ""
+
+#: inc/theme/options2.php:478
+msgid "Insert Latitude coordinate"
+msgstr ""
+
+#: inc/theme/options2.php:487
+msgid "Longitude"
+msgstr ""
+
+#: inc/theme/options2.php:488
+msgid "Insert Longitude coordinate"
+msgstr ""
+
+#: inc/theme/options2.php:495 inc/theme/options2.php:497
+msgid "Marker Title"
+msgstr ""
+
+#: inc/theme/options2.php:498
+msgid "Insert marker title"
+msgstr ""
+
+#: inc/theme/options2.php:505 inc/theme/options2.php:507
+msgid "Marker Description"
+msgstr ""
+
+#: inc/theme/options2.php:508
+msgid "Insert marker description"
+msgstr ""
+
+#: inc/theme/options2.php:522
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/theme/options2.php:531
+msgid "DISABLE One Click Demo Import"
+msgstr ""
+
+#: inc/theme/options2.php:532
+msgid ""
+"If you have imported demo content or you do not need demo content, then it "
+"is better to disable One Click Demo Import feature."
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Visual Composer"
+msgstr ""
+
+#: inc/theme/options2.php:555
+msgid "ENABLE Visual Composer License Page"
+msgstr ""
+
+#: inc/theme/options2.php:556
+msgid ""
+"It is useful if you purchase separate Visual Composer license to get direct "
+"plugin updates and official support from Visual Composer developer."
+msgstr ""
+
+#: inc/theme/options2.php:570
+msgid "Optimizations"
+msgstr ""
+
+#: inc/theme/options2.php:579
+msgid "DISABLE generator meta tag"
+msgstr ""
+
+#: inc/theme/options2.php:580
+msgid ""
+"DISABLE generator meta tag from WordPress, WooCommerce, Visual Composer, "
+"and Revolution Slider for security purpose."
+msgstr ""
+
+#: inc/theme/options2.php:588
+msgid "DISABLE WordPress Emoji"
+msgstr ""
+
+#: inc/theme/options2.php:589
+msgid "DISABLE WordPress Emoji script if you do not need it."
+msgstr ""
+
+#: inc/theme/options2.php:597
+msgid "DISABLE WordPress Responsive Images"
+msgstr ""
+
+#: inc/theme/options2.php:598
+msgid "DISABLE WordPress Responsive Images srcset if you do not need it."
+msgstr ""
+
+#: inc/theme/options2.php:607
+msgid "DISABLE Child Theme's style.css"
+msgstr ""
+
+#: inc/theme/options2.php:608
+msgid "DISABLE Child Theme's style.css if you do not use it."
+msgstr ""
+
+#: inc/theme/options2.php:618
+msgid "DISABLE Jetpack JS & CSS"
+msgstr ""
+
+#: inc/theme/options2.php:619
+msgid "DISABLE Jetpack JS & CSS if you do not need it."
+msgstr ""
+
+#: inc/theme/options2.php:629
+msgid "Custom WooCommerce Small Screen CSS"
+msgstr ""
+
+#: inc/theme/options2.php:630
+msgid ""
+"Load custom woocommerce small screen CSS file. It is useful when your CSS "
+"minify plugin does not work."
+msgstr ""
+
+#: inc/theme/options2.php:640
+msgid "Theme Options"
+msgstr ""
+
+#: inc/theme/plugins.php:131
+msgid ""
+"This is bundled plugin of WPBakery Page Builder (formerly Visual Composer) "
+"from TokoPress. This plugin update will be included on every theme update."
+msgstr ""
+
+#: inc/theme/plugins.php:133
+msgid ""
+"ENABLE Visual Composer License page to enable direct plugin updates from "
+"WPBakery"
+msgstr ""
+
+#: inc/theme/plugins.php:169
+msgid ""
+"<p>If you have imported demo content or you do not need demo content, then "
+"it is better to disable One Click Demo Import feature.</p><p><strong><a "
+"href=\"%s\">Disable One Click Demo Import NOW!</a></strong></p> "
+msgstr ""
+
+#: inc/theme/plugins.php:178
+msgid "Import dummy Revolution Slider for Homepage"
+msgstr ""
+
+#: inc/theme/plugins.php:179
+msgid "Regenerate thumbnails using Force Regenerate Thumbnails plugin"
+msgstr ""
+
+#: inc/theme/plugins.php:180
+msgid "Go to Settings - Permalinks and click \"Save Changes\" button"
+msgstr ""
+
+#: inc/theme/plugins.php:182
+msgid "After you import this demo, you will have to:"
+msgstr ""
+
+#: inc/theme/plugins.php:310
+msgid "Marketica - Boxed (v4)"
+msgstr ""
+
+#: inc/theme/plugins.php:314
+msgid "Marketica - Full Width (v4)"
+msgstr ""
+
+#: inc/theme/plugins.php:318
+msgid "Marketica - Home (Legacy)"
+msgstr ""
+
+#: inc/theme/plugins.php:322
+msgid "Marketica - Plan &amp; Pricing (Legacy)"
+msgstr ""
+
+#: inc/theme/plugins.php:342
+msgid "Marketica - Team Members (Legacy)"
+msgstr ""
+
+#: inc/theme/plugins.php:357
+msgid "WooCommerce - Simple Frontend Submission"
+msgstr ""
+
+#: inc/theme/plugins.php:366
+msgid "Visibility"
+msgstr ""
+
+#: inc/theme/plugins.php:367
+msgid "Vendor: only vendor can see frontend submission form"
+msgstr ""
+
+#: inc/theme/plugins.php:367
+msgid "User: all logged-in users can see frontend submission form"
+msgstr ""
+
+#: inc/theme/plugins.php:367
+msgid "All: everyone can see frontend submission form"
+msgstr ""
+
+#: inc/theme/plugins.php:380
+msgid "Product Type"
+msgstr ""
+
+#: inc/theme/plugins.php:394
+msgid "Product SKU"
+msgstr ""
+
+#: inc/theme/plugins.php:405
+msgid "Product Status"
+msgstr ""
+
+#: inc/theme/update.php:16
+msgid "Theme Update"
+msgstr ""
+
+#: inc/theme/update.php:25
+msgid "Theme Update Options"
+msgstr ""
+
+#: inc/theme/update.php:34
+msgid "License Key"
+msgstr ""
+
+#: inc/theme/update.php:42
+msgid "Enter your license key"
+msgstr ""
+
+#: inc/theme/update.php:46 inc/theme/update.php:49
+msgid "license status: %s"
+msgstr ""
+
+#: inc/theme/update.php:62
+msgid ""
+"Note: If you purchase this theme from ThemeForest, License Key is your "
+"Purchase Code."
+msgstr ""
+
+#: inc/theme/update.php:78
+msgid "unknown"
+msgstr ""
+
+#: inc/theme/update.php:179
+msgid ""
+"Updating this parent theme will lose any customizations you have made. "
+"Please consider using child theme for modifications. 'Cancel' to stop, 'OK' "
+"to update."
+msgstr ""
+
+#: inc/widget/widget_social.php:20
+msgid "A custom widget to display the social network icons."
+msgstr ""
+
+#: inc/widget/widget_social.php:23
+msgid "Tokopress - Social Connect"
+msgstr ""
+
+#: inc/widget/widget_social.php:191 inc/widget/widget_statistic.php:98
+#: inc/widget/widget_subscribe.php:64
+msgid "Title:"
+msgstr ""
+
+#: inc/widget/widget_social.php:196
+msgid "Rss URL:"
+msgstr ""
+
+#: inc/widget/widget_social.php:204
+msgid "Twitter Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:208
+msgid "Facebook Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:212
+msgid "Google Plus Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:216
+msgid "Youtube Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:220
+msgid "Youtube Channel:"
+msgstr ""
+
+#: inc/widget/widget_social.php:224
+msgid "Flickr Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:228
+msgid "Linkedin Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:232
+msgid "Pinterest Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:237
+msgid "Dribbble Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:241
+msgid "Github Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:245
+msgid "Last FM Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:250
+msgid "Vimeo Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:254
+msgid "Tumblr Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:258
+msgid "Instagram Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:262
+msgid "Soundcloud Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:266
+msgid "Behance Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:270
+msgid "Deviantart Username:"
+msgstr ""
+
+#: inc/widget/widget_statistic.php:16
+msgid "Tokopress - Statistic Product and Users"
+msgstr ""
+
+#: inc/widget/widget_statistic.php:17
+msgid "Display statistic product and users"
+msgstr ""
+
+#: inc/widget/widget_statistic.php:40
+msgid "Marketplace Members"
+msgstr ""
+
+#: inc/widget/widget_statistic.php:59
+msgid "Marketplace Sellers"
+msgstr ""
+
+#: inc/widget/widget_statistic.php:69
+msgid "Marketplace Items"
+msgstr ""
+
+#: inc/widget/widget_statistic.php:76
+msgid "Posts"
+msgstr ""
+
+#: inc/widget/widget_statistic.php:94
+msgid "Statistics"
+msgstr ""
+
+#: inc/widget/widget_subscribe.php:22
+msgid "Tokopress - Subscribe Form"
+msgstr ""
+
+#: inc/widget/widget_subscribe.php:23
+msgid "Displays your custom MailChimp for WordPress sign-up form"
+msgstr ""
+
+#: inc/widget/widget_subscribe.php:60
+msgid "Newsletter"
+msgstr ""
+
+#: inc/widget/widget_subscribe.php:68
+msgid "Form Description"
+msgstr ""
+
+#: inc/widget/widget_subscribe.php:72
+msgid "Select Form:"
+msgstr ""
+
+#: inc/widget/widget_subscribe.php:74
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: inc/widget/widget_subscribe.php:86
+msgid ""
+"You can edit your sign-up form in the %sMailChimp for WordPress form "
+"settings%s."
+msgstr ""
+
+#: inc/woocommerce/designs2.php:9
+msgid "WooCommerce - General"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:18
+msgid "Buttons"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:25
+msgid "Default Button Color"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:33
+msgid "Alt / Primary Button Color"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:42
+msgid "Sale Flash"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:49
+msgid "Sale Flash - Background Color"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:57
+msgid "Sale Flash - Text Color"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:65 inc/woocommerce/options2.php:18
+msgid "WooCommerce - Shop Page"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:74 inc/woocommerce/designs2.php:75
+#: inc/woocommerce/options2.php:27 inc/woocommerce/options2.php:28
+#: inc/woocommerce/plugin-dokan.php:181 inc/woocommerce/plugin-dokan.php:182
+#: inc/woocommerce/plugin-wcvendors.php:148
+#: inc/woocommerce/plugin-wcvendors.php:149
+#: inc/woocommerce/plugin-woovendors.php:100
+#: inc/woocommerce/plugin-woovendors.php:101
+msgid "Shop Page"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:84
+msgid "Catalog Ordering & Result Count"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:91
+msgid "Background Color"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:99
+msgid "Result Count - Text Color"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:107
+msgid "Catalog Ordering - Dropdown Color"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:115
+msgid "Catalog Ordering - Dropdown Background"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:124
+msgid "Product Catalog / Product Loops"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:131
+msgid "Product Catalog - Background Color"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:139
+msgid "Product Catalog - Border Color"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:147
+msgid "Product Catalog - Image Hover Background"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:155
+msgid "Product Catalog - Product Title Color"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:163
+msgid "Product Catalog - Rating Color"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:171
+msgid "Product Catalog - Price Color"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:179
+msgid "Product Catalog - Normal Price Color"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:187
+msgid "Product Catalog - Text Color"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:195
+msgid "Product Catalog - Link Color"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:212 inc/woocommerce/options2.php:232
+msgid "WooCommerce - Single Product"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:221 inc/woocommerce/designs2.php:222
+#: inc/woocommerce/options2.php:241 inc/woocommerce/options2.php:242
+#: inc/woocommerce/plugin-dokan.php:220 inc/woocommerce/plugin-dokan.php:221
+#: inc/woocommerce/plugin-wcvendors.php:179
+#: inc/woocommerce/plugin-wcvendors.php:180
+#: inc/woocommerce/plugin-woovendors.php:139
+#: inc/woocommerce/plugin-woovendors.php:140
+msgid "Single Product"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:238
+msgid "Single Product - Add To Cart Button Color"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:246
+msgid "Single Product - Price Color"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:254
+msgid "Single Product - Normal Price Color"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:279 inc/woocommerce/options2.php:430
+#: woocommerce/single-product/related.php:86
+msgid "Related Products"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:286 inc/woocommerce/designs2.php:318
+#: inc/woocommerce/designs2.php:386
+msgid "Section Title Background Color"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:294 inc/woocommerce/designs2.php:326
+#: inc/woocommerce/designs2.php:394
+msgid "Section Title Text Color"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:302 inc/woocommerce/designs2.php:334
+#: inc/woocommerce/designs2.php:402
+msgid "Section Title Border Color"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:311 inc/woocommerce/options2.php:469
+msgid "Up-Sells Products"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:352 inc/woocommerce/options2.php:517
+msgid "WooCommerce - Cart Page"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:361 inc/woocommerce/designs2.php:362
+#: inc/woocommerce/options2.php:526 inc/woocommerce/options2.php:527
+#: inc/woocommerce/plugin-dokan.php:312 inc/woocommerce/plugin-dokan.php:313
+#: inc/woocommerce/plugin-wcvendors.php:301
+#: inc/woocommerce/plugin-wcvendors.php:302
+#: inc/woocommerce/plugin-woovendors.php:230
+#: inc/woocommerce/plugin-woovendors.php:231
+msgid "Cart Page"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:370
+msgid "Checkout - Proceed To Checkout Button Color"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:379 inc/woocommerce/options2.php:536
+msgid "Cross-Sells Products"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:420
+msgid "WooCommerce - Checkout Page"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:429 inc/woocommerce/designs2.php:430
+msgid "Checkout Page"
+msgstr ""
+
+#: inc/woocommerce/designs2.php:438
+msgid "Checkout - Place Order Button Color"
+msgstr ""
+
+#: inc/woocommerce/frontend.php:114 woocommerce/content-product-alt.php:46
+msgid "detail"
+msgstr ""
+
+#: inc/woocommerce/frontend.php:276
+msgid "Item Details"
+msgstr ""
+
+#: inc/woocommerce/frontend.php:465 inc/woocommerce/frontend.php:496
+msgid "My Account"
+msgstr ""
+
+#: inc/woocommerce/frontend.php:503
+msgid "Register"
+msgstr ""
+
+#: inc/woocommerce/functions.php:61 inc/woocommerce/functions.php:130
+msgid "\"%s\" page not set"
+msgstr ""
+
+#: inc/woocommerce/functions.php:69 inc/woocommerce/functions.php:138
+msgid "\"%s\" page does not exist"
+msgstr ""
+
+#: inc/woocommerce/functions.php:74 inc/woocommerce/functions.php:143
+msgid "\"%s\" page does not contain the shortcode: <code>%s</code>"
+msgstr ""
+
+#: inc/woocommerce/functions.php:96
+msgid "%s vendor plugins (%s) are active. Please use only one of them!"
+msgstr ""
+
+#: inc/woocommerce/functions.php:101
+msgid ""
+"%s plugin is no longer in active development. Please deactivate and replace "
+"it with %s plugin!"
+msgstr ""
+
+#: inc/woocommerce/metabox.php:7
+msgid "Product Item Details"
+msgstr ""
+
+#: inc/woocommerce/options2.php:37 inc/woocommerce/options2.php:251
+msgid "Page Header"
+msgstr ""
+
+#: inc/woocommerce/options2.php:45
+msgid "DISABLE page header on the main shop page"
+msgstr ""
+
+#: inc/woocommerce/options2.php:61
+msgid "DISABLE sidebar on shop page."
+msgstr ""
+
+#: inc/woocommerce/options2.php:69
+msgid "Product Loop Elements"
+msgstr ""
+
+#: inc/woocommerce/options2.php:77
+msgid "Product Catalog Columns Gap"
+msgstr ""
+
+#: inc/woocommerce/options2.php:81
+msgid "No Gap"
+msgstr ""
+
+#: inc/woocommerce/options2.php:82
+msgid "With Gap"
+msgstr ""
+
+#: inc/woocommerce/options2.php:90
+msgid "Product Catalog Style"
+msgstr ""
+
+#: inc/woocommerce/options2.php:94 inc/woocommerce/options2.php:107
+#: inc/woocommerce/options2.php:280
+msgid "Default Style"
+msgstr ""
+
+#: inc/woocommerce/options2.php:95 inc/woocommerce/options2.php:108
+msgid "Alternate Style"
+msgstr ""
+
+#: inc/woocommerce/options2.php:103
+msgid "Product Category Style"
+msgstr ""
+
+#: inc/woocommerce/options2.php:116
+msgid "DISABLE product result count"
+msgstr ""
+
+#: inc/woocommerce/options2.php:124
+msgid "DISABLE catalog ordering dropdown"
+msgstr ""
+
+#: inc/woocommerce/options2.php:132
+msgid "Products Per Page"
+msgstr ""
+
+#: inc/woocommerce/options2.php:142
+msgid "Products Column Per Row"
+msgstr ""
+
+#: inc/woocommerce/options2.php:157
+msgid "DISABLE products sale flash"
+msgstr ""
+
+#: inc/woocommerce/options2.php:165
+msgid "DISABLE products title"
+msgstr ""
+
+#: inc/woocommerce/options2.php:173
+msgid "Shorten Product Title"
+msgstr ""
+
+#: inc/woocommerce/options2.php:174
+msgid "Truncate long product title into one line"
+msgstr ""
+
+#: inc/woocommerce/options2.php:182
+msgid "DISABLE products rating"
+msgstr ""
+
+#: inc/woocommerce/options2.php:190
+msgid "DISABLE products price"
+msgstr ""
+
+#: inc/woocommerce/options2.php:198
+msgid "DISABLE products \"add to cart\" button"
+msgstr ""
+
+#: inc/woocommerce/options2.php:206
+msgid "DISABLE products \"detail\" button"
+msgstr ""
+
+#: inc/woocommerce/options2.php:214
+msgid "Products \"Detail\" Button Text"
+msgstr ""
+
+#: inc/woocommerce/options2.php:259
+msgid "DISABLE page header"
+msgstr ""
+
+#: inc/woocommerce/options2.php:267
+msgid "Single Product Elements"
+msgstr ""
+
+#: inc/woocommerce/options2.php:275
+msgid "Product Image Style"
+msgstr ""
+
+#: inc/woocommerce/options2.php:279
+msgid "Slider Style"
+msgstr ""
+
+#: inc/woocommerce/options2.php:288
+msgid "ENABLE product image lightbox"
+msgstr ""
+
+#: inc/woocommerce/options2.php:296
+msgid "DISABLE product sale flash"
+msgstr ""
+
+#: inc/woocommerce/options2.php:304
+msgid "DISABLE product rating"
+msgstr ""
+
+#: inc/woocommerce/options2.php:312
+msgid "DISABLE product price"
+msgstr ""
+
+#: inc/woocommerce/options2.php:320
+msgid "DISABLE product short description"
+msgstr ""
+
+#: inc/woocommerce/options2.php:328
+msgid "DISABLE product \"add to cart\" button"
+msgstr ""
+
+#: inc/woocommerce/options2.php:336
+msgid "Single Product Item Details"
+msgstr ""
+
+#: inc/woocommerce/options2.php:344
+msgid "DISABLE product sku"
+msgstr ""
+
+#: inc/woocommerce/options2.php:352
+msgid "DISABLE product attributes"
+msgstr ""
+
+#: inc/woocommerce/options2.php:360
+msgid "DISABLE product meta (categories/tags)"
+msgstr ""
+
+#: inc/woocommerce/options2.php:368
+msgid "License Information"
+msgstr ""
+
+#: inc/woocommerce/options2.php:369
+msgid ""
+"This is an old feature from the early version of Marketica. We keep it here "
+"for backward compatibility."
+msgstr ""
+
+#: inc/woocommerce/options2.php:377
+msgid "SHOW license information on single product page"
+msgstr ""
+
+#: inc/woocommerce/options2.php:385
+msgid "License Information Summary"
+msgstr ""
+
+#: inc/woocommerce/options2.php:387
+msgid ""
+"Use, by you or one client, in a single end product which end users are not "
+"charged for. The total price includes the item price and a buyer fee."
+msgstr ""
+
+#: inc/woocommerce/options2.php:394
+msgid "License Link Text #1"
+msgstr ""
+
+#: inc/woocommerce/options2.php:396
+msgid "More Details"
+msgstr ""
+
+#: inc/woocommerce/options2.php:403
+msgid "License Link URL #1"
+msgstr ""
+
+#: inc/woocommerce/options2.php:412
+msgid "License Link Text #2"
+msgstr ""
+
+#: inc/woocommerce/options2.php:421
+msgid "License Link URL #2"
+msgstr ""
+
+#: inc/woocommerce/options2.php:438
+msgid "DISABLE related products on single product page"
+msgstr ""
+
+#: inc/woocommerce/options2.php:446
+msgid "Number of Related Products"
+msgstr ""
+
+#: inc/woocommerce/options2.php:477
+msgid "DISABLE up-sells products on single product page"
+msgstr ""
+
+#: inc/woocommerce/options2.php:485
+msgid "Number of Up-Sells Products"
+msgstr ""
+
+#: inc/woocommerce/options2.php:544
+msgid "DISABLE Cross-sells products on cart page"
+msgstr ""
+
+#: inc/woocommerce/options2.php:561
+msgid "WooCommerce - Account Page"
+msgstr ""
+
+#: inc/woocommerce/options2.php:570
+msgid "Redirect URL After Customer Login"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:10 inc/woocommerce/plugin-dokan.php:370
+#: inc/woocommerce/plugin-dokan.php:529
+msgid "Dokan"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:19 inc/woocommerce/plugin-dokan.php:387
+msgid "Dokan - Vendor Store"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:27 inc/woocommerce/plugin-dokan.php:28
+#: inc/woocommerce/plugin-wcvendors.php:27
+#: inc/woocommerce/plugin-wcvendors.php:28
+#: inc/woocommerce/plugin-woovendors.php:27
+#: inc/woocommerce/plugin-woovendors.php:28
+msgid "Vendor Store Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:37 inc/woocommerce/plugin-dokan.php:392
+#: inc/woocommerce/plugin-sociovendors.php:27
+#: inc/woocommerce/plugin-sociovendors.php:127
+#: inc/woocommerce/plugin-wcvendors.php:37
+#: inc/woocommerce/plugin-wcvendors.php:364
+#: inc/woocommerce/plugin-woovendors.php:37
+#: inc/woocommerce/plugin-woovendors.php:281
+msgid "SHOW Store Header on Vendor Store Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:41 inc/woocommerce/plugin-dokan.php:108
+#: inc/woocommerce/plugin-dokan.php:124 inc/woocommerce/plugin-dokan.php:138
+#: inc/woocommerce/plugin-dokan.php:164 inc/woocommerce/plugin-dokan.php:195
+#: inc/woocommerce/plugin-dokan.php:235 inc/woocommerce/plugin-dokan.php:248
+#: inc/woocommerce/plugin-dokan.php:275 inc/woocommerce/plugin-dokan.php:287
+#: inc/woocommerce/plugin-dokan.php:326 inc/woocommerce/plugin-dokan.php:398
+#: inc/woocommerce/plugin-dokan.php:415 inc/woocommerce/plugin-dokan.php:440
+#: inc/woocommerce/plugin-dokan.php:453 inc/woocommerce/plugin-dokan.php:478
+#: inc/woocommerce/plugin-dokan.php:489 inc/woocommerce/plugin-dokan.php:514
+#: inc/woocommerce/plugin-sociovendors.php:31
+#: inc/woocommerce/plugin-sociovendors.php:52
+#: inc/woocommerce/plugin-sociovendors.php:73
+#: inc/woocommerce/plugin-sociovendors.php:86
+#: inc/woocommerce/plugin-sociovendors.php:107
+#: inc/woocommerce/plugin-sociovendors.php:133
+#: inc/woocommerce/plugin-sociovendors.php:150
+#: inc/woocommerce/plugin-sociovendors.php:167
+#: inc/woocommerce/plugin-sociovendors.php:179
+#: inc/woocommerce/plugin-sociovendors.php:196
+#: inc/woocommerce/plugin-wcvendors.php:41
+#: inc/woocommerce/plugin-wcvendors.php:54
+#: inc/woocommerce/plugin-wcvendors.php:68
+#: inc/woocommerce/plugin-wcvendors.php:83
+#: inc/woocommerce/plugin-wcvendors.php:100
+#: inc/woocommerce/plugin-wcvendors.php:115
+#: inc/woocommerce/plugin-wcvendors.php:130
+#: inc/woocommerce/plugin-wcvendors.php:162
+#: inc/woocommerce/plugin-wcvendors.php:194
+#: inc/woocommerce/plugin-wcvendors.php:207
+#: inc/woocommerce/plugin-wcvendors.php:220
+#: inc/woocommerce/plugin-wcvendors.php:233
+#: inc/woocommerce/plugin-wcvendors.php:246
+#: inc/woocommerce/plugin-wcvendors.php:258
+#: inc/woocommerce/plugin-wcvendors.php:272
+#: inc/woocommerce/plugin-wcvendors.php:284
+#: inc/woocommerce/plugin-wcvendors.php:315
+#: inc/woocommerce/plugin-wcvendors.php:370
+#: inc/woocommerce/plugin-wcvendors.php:382
+#: inc/woocommerce/plugin-wcvendors.php:394
+#: inc/woocommerce/plugin-wcvendors.php:407
+#: inc/woocommerce/plugin-wcvendors.php:422
+#: inc/woocommerce/plugin-wcvendors.php:435
+#: inc/woocommerce/plugin-wcvendors.php:448
+#: inc/woocommerce/plugin-wcvendors.php:465
+#: inc/woocommerce/plugin-wcvendors.php:483
+#: inc/woocommerce/plugin-wcvendors.php:495
+#: inc/woocommerce/plugin-wcvendors.php:507
+#: inc/woocommerce/plugin-wcvendors.php:518
+#: inc/woocommerce/plugin-wcvendors.php:531
+#: inc/woocommerce/plugin-wcvendors.php:542
+#: inc/woocommerce/plugin-wcvendors.php:555
+#: inc/woocommerce/plugin-wcvendors.php:566
+#: inc/woocommerce/plugin-wcvendors.php:583
+#: inc/woocommerce/plugin-woovendors.php:41
+#: inc/woocommerce/plugin-woovendors.php:54
+#: inc/woocommerce/plugin-woovendors.php:68
+#: inc/woocommerce/plugin-woovendors.php:82
+#: inc/woocommerce/plugin-woovendors.php:114
+#: inc/woocommerce/plugin-woovendors.php:154
+#: inc/woocommerce/plugin-woovendors.php:167
+#: inc/woocommerce/plugin-woovendors.php:179
+#: inc/woocommerce/plugin-woovendors.php:193
+#: inc/woocommerce/plugin-woovendors.php:205
+#: inc/woocommerce/plugin-woovendors.php:244
+#: inc/woocommerce/plugin-woovendors.php:287
+#: inc/woocommerce/plugin-woovendors.php:299
+#: inc/woocommerce/plugin-woovendors.php:311
+#: inc/woocommerce/plugin-woovendors.php:323
+#: inc/woocommerce/plugin-woovendors.php:340
+#: inc/woocommerce/plugin-woovendors.php:366
+#: inc/woocommerce/plugin-woovendors.php:378
+#: inc/woocommerce/plugin-woovendors.php:389
+#: inc/woocommerce/plugin-woovendors.php:402
+#: inc/woocommerce/plugin-woovendors.php:413
+#: inc/woocommerce/plugin-woovendors.php:438
+msgid "Yes"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:42 inc/woocommerce/plugin-dokan.php:109
+#: inc/woocommerce/plugin-dokan.php:123 inc/woocommerce/plugin-dokan.php:139
+#: inc/woocommerce/plugin-dokan.php:165 inc/woocommerce/plugin-dokan.php:196
+#: inc/woocommerce/plugin-dokan.php:234 inc/woocommerce/plugin-dokan.php:247
+#: inc/woocommerce/plugin-dokan.php:262 inc/woocommerce/plugin-dokan.php:274
+#: inc/woocommerce/plugin-dokan.php:288 inc/woocommerce/plugin-dokan.php:327
+#: inc/woocommerce/plugin-dokan.php:399 inc/woocommerce/plugin-dokan.php:416
+#: inc/woocommerce/plugin-dokan.php:441 inc/woocommerce/plugin-dokan.php:452
+#: inc/woocommerce/plugin-dokan.php:466 inc/woocommerce/plugin-dokan.php:477
+#: inc/woocommerce/plugin-dokan.php:490 inc/woocommerce/plugin-dokan.php:515
+#: inc/woocommerce/plugin-sociovendors.php:32
+#: inc/woocommerce/plugin-sociovendors.php:53
+#: inc/woocommerce/plugin-sociovendors.php:74
+#: inc/woocommerce/plugin-sociovendors.php:87
+#: inc/woocommerce/plugin-sociovendors.php:108
+#: inc/woocommerce/plugin-sociovendors.php:134
+#: inc/woocommerce/plugin-sociovendors.php:151
+#: inc/woocommerce/plugin-sociovendors.php:168
+#: inc/woocommerce/plugin-sociovendors.php:180
+#: inc/woocommerce/plugin-sociovendors.php:197
+#: inc/woocommerce/plugin-wcvendors.php:42
+#: inc/woocommerce/plugin-wcvendors.php:55
+#: inc/woocommerce/plugin-wcvendors.php:69
+#: inc/woocommerce/plugin-wcvendors.php:84
+#: inc/woocommerce/plugin-wcvendors.php:99
+#: inc/woocommerce/plugin-wcvendors.php:114
+#: inc/woocommerce/plugin-wcvendors.php:129
+#: inc/woocommerce/plugin-wcvendors.php:163
+#: inc/woocommerce/plugin-wcvendors.php:193
+#: inc/woocommerce/plugin-wcvendors.php:206
+#: inc/woocommerce/plugin-wcvendors.php:219
+#: inc/woocommerce/plugin-wcvendors.php:232
+#: inc/woocommerce/plugin-wcvendors.php:245
+#: inc/woocommerce/plugin-wcvendors.php:259
+#: inc/woocommerce/plugin-wcvendors.php:271
+#: inc/woocommerce/plugin-wcvendors.php:285
+#: inc/woocommerce/plugin-wcvendors.php:316
+#: inc/woocommerce/plugin-wcvendors.php:371
+#: inc/woocommerce/plugin-wcvendors.php:383
+#: inc/woocommerce/plugin-wcvendors.php:395
+#: inc/woocommerce/plugin-wcvendors.php:408
+#: inc/woocommerce/plugin-wcvendors.php:421
+#: inc/woocommerce/plugin-wcvendors.php:434
+#: inc/woocommerce/plugin-wcvendors.php:447
+#: inc/woocommerce/plugin-wcvendors.php:466
+#: inc/woocommerce/plugin-wcvendors.php:482
+#: inc/woocommerce/plugin-wcvendors.php:494
+#: inc/woocommerce/plugin-wcvendors.php:506
+#: inc/woocommerce/plugin-wcvendors.php:519
+#: inc/woocommerce/plugin-wcvendors.php:530
+#: inc/woocommerce/plugin-wcvendors.php:543
+#: inc/woocommerce/plugin-wcvendors.php:554
+#: inc/woocommerce/plugin-wcvendors.php:567
+#: inc/woocommerce/plugin-wcvendors.php:584
+#: inc/woocommerce/plugin-woovendors.php:42
+#: inc/woocommerce/plugin-woovendors.php:55
+#: inc/woocommerce/plugin-woovendors.php:69
+#: inc/woocommerce/plugin-woovendors.php:83
+#: inc/woocommerce/plugin-woovendors.php:115
+#: inc/woocommerce/plugin-woovendors.php:153
+#: inc/woocommerce/plugin-woovendors.php:166
+#: inc/woocommerce/plugin-woovendors.php:180
+#: inc/woocommerce/plugin-woovendors.php:192
+#: inc/woocommerce/plugin-woovendors.php:206
+#: inc/woocommerce/plugin-woovendors.php:245
+#: inc/woocommerce/plugin-woovendors.php:288
+#: inc/woocommerce/plugin-woovendors.php:300
+#: inc/woocommerce/plugin-woovendors.php:312
+#: inc/woocommerce/plugin-woovendors.php:324
+#: inc/woocommerce/plugin-woovendors.php:341
+#: inc/woocommerce/plugin-woovendors.php:365
+#: inc/woocommerce/plugin-woovendors.php:377
+#: inc/woocommerce/plugin-woovendors.php:390
+#: inc/woocommerce/plugin-woovendors.php:401
+#: inc/woocommerce/plugin-woovendors.php:414
+#: inc/woocommerce/plugin-woovendors.php:439
+msgid "No"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:51
+msgid "[Dokan Setting] Store Header Template"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:68
+msgid "Store Header Style / Position"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:69
+msgid ""
+"If you use Dokan Live Search extension, it is better to use \"Inner "
+"(Content)\" for store header style."
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:104
+msgid "[Dokan Setting] Enable Terms and Conditions for vendor stores"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:118
+msgid "[Dokan Setting] Enable showing Store Sidebar From Your Theme"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:119
+msgid ""
+"By default, Dokan will show custom sidebar from Dokan. You can use this "
+"option to show shop sidebar (if active) from your theme."
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:133
+msgid ""
+"[Dokan Setting] Enable a Google Map of the Store Location in the Dokan "
+"store sidebar"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:148
+msgid ""
+"[Dokan Setting] Google Maps API Key for Google Map of the Store Location "
+"(recommended)"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:159
+msgid "[Dokan Setting] Enable Vendor Contact Form in the Dokan store sidebar"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:173 inc/woocommerce/plugin-dokan.php:404
+msgid "Dokan - Shop Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:191 inc/woocommerce/plugin-dokan.php:409
+#: inc/woocommerce/plugin-sociovendors.php:48
+#: inc/woocommerce/plugin-sociovendors.php:144
+#: inc/woocommerce/plugin-wcvendors.php:158
+#: inc/woocommerce/plugin-wcvendors.php:459
+#: inc/woocommerce/plugin-woovendors.php:110
+#: inc/woocommerce/plugin-woovendors.php:334
+msgid "SHOW \"Sold by\" at Product List"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:204 inc/woocommerce/plugin-dokan.php:296
+#: inc/woocommerce/plugin-dokan.php:335 inc/woocommerce/plugin-dokan.php:421
+#: inc/woocommerce/plugin-dokan.php:495
+#: inc/woocommerce/plugin-woovendors.php:123
+#: inc/woocommerce/plugin-woovendors.php:214
+#: inc/woocommerce/plugin-woovendors.php:253
+#: inc/woocommerce/plugin-woovendors.php:346
+#: inc/woocommerce/plugin-woovendors.php:419
+#: inc/woocommerce/plugin-woovendors.php:444
+msgid "Custom \"Sold by\" text"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:212
+msgid "Dokan - Single Product"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:230 inc/woocommerce/plugin-dokan.php:434
+#: inc/woocommerce/plugin-wcvendors.php:228
+#: inc/woocommerce/plugin-wcvendors.php:512
+#: inc/woocommerce/plugin-woovendors.php:149
+#: inc/woocommerce/plugin-woovendors.php:359
+msgid "SHOW \"Seller Info\" at Product Tab"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:243 inc/woocommerce/plugin-dokan.php:446
+#: inc/woocommerce/plugin-wcvendors.php:241
+#: inc/woocommerce/plugin-wcvendors.php:524
+#: inc/woocommerce/plugin-woovendors.php:162
+#: inc/woocommerce/plugin-woovendors.php:371
+msgid "SHOW \"View Store\" link at the end of Product Tab"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:256 inc/woocommerce/plugin-dokan.php:458
+#: inc/woocommerce/plugin-sociovendors.php:69
+#: inc/woocommerce/plugin-sociovendors.php:161
+#: inc/woocommerce/plugin-wcvendors.php:254
+#: inc/woocommerce/plugin-wcvendors.php:536
+#: inc/woocommerce/plugin-woovendors.php:175
+#: inc/woocommerce/plugin-woovendors.php:383
+msgid "SHOW \"More From This Seller\" Products"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:260 inc/woocommerce/plugin-dokan.php:464
+msgid "Vendor Setting"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:261 inc/woocommerce/plugin-dokan.php:465
+msgid "Yes For All"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:270 inc/woocommerce/plugin-dokan.php:471
+#: inc/woocommerce/plugin-wcvendors.php:267
+#: inc/woocommerce/plugin-wcvendors.php:548
+#: inc/woocommerce/plugin-woovendors.php:188
+#: inc/woocommerce/plugin-woovendors.php:395
+msgid "SHOW Vendor Details at Product Sidebar"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:283 inc/woocommerce/plugin-dokan.php:483
+#: inc/woocommerce/plugin-sociovendors.php:82
+#: inc/woocommerce/plugin-wcvendors.php:280
+#: inc/woocommerce/plugin-wcvendors.php:560
+#: inc/woocommerce/plugin-woovendors.php:201
+#: inc/woocommerce/plugin-woovendors.php:407
+msgid "SHOW \"Sold by\" at Item Details"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:304 inc/woocommerce/plugin-dokan.php:503
+msgid "Dokan - Cart Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:322 inc/woocommerce/plugin-dokan.php:508
+#: inc/woocommerce/plugin-sociovendors.php:103
+#: inc/woocommerce/plugin-sociovendors.php:190
+#: inc/woocommerce/plugin-wcvendors.php:311
+#: inc/woocommerce/plugin-wcvendors.php:577
+#: inc/woocommerce/plugin-woovendors.php:240
+#: inc/woocommerce/plugin-woovendors.php:432
+msgid "SHOW \"Sold by\" at Cart page"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:344
+msgid "Dokan Live Search"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:351
+msgid "ENABLE Dokan Live Search on header"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:429
+msgid "Dokan - Single Product Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:538
+#: inc/woocommerce/plugin-wcvendors.php:622
+#: inc/woocommerce/plugin-woovendors.php:470
+msgid "Vendor Store"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:545
+#: inc/woocommerce/plugin-wcvendors.php:629
+#: inc/woocommerce/plugin-woovendors.php:477
+msgid "Vendor Store Header Background Color"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:546
+#: inc/woocommerce/plugin-wcvendors.php:630
+#: inc/woocommerce/plugin-woovendors.php:478
+msgid "If vendor store banner image is not available"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:555
+msgid "Dokan Dashboard"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:562
+msgid "Dokan Dashboard - Menu Background (Active)"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:570
+msgid "Dokan Dashboard - Menu Background (Hover)"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:578
+msgid "Dokan Dashboard - Link Color"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:587
+msgid "Dokan Button"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:594
+msgid "Dokan Button Background"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:602
+msgid "Dokan Button Background (Hover)"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:682 inc/woocommerce/plugin-dokan.php:722
+#: inc/woocommerce/plugin-sociovendors.php:223
+#: inc/woocommerce/plugin-sociovendors.php:239
+#: inc/woocommerce/plugin-sociovendors.php:250
+#: inc/woocommerce/plugin-woovendors.php:523
+#: inc/woocommerce/plugin-woovendors.php:549
+#: inc/woocommerce/plugin-woovendors.php:564
+msgid "sold by"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:814 inc/woocommerce/plugin-dokan.php:828
+#: inc/woocommerce/plugin-wcvendors.php:756
+#: inc/woocommerce/plugin-wcvendors.php:816
+#: inc/woocommerce/plugin-wcvendors.php:989
+#: inc/woocommerce/plugin-wcvendors.php:1005
+#: inc/woocommerce/plugin-woovendors.php:615
+#: inc/woocommerce/plugin-woovendors.php:649
+#: inc/woocommerce/plugin-woovendors.php:667 wc-vendors/block-nav-pro.php:63
+msgid "View Store"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:907
+msgid "Dokan Store Sidebar"
+msgstr ""
+
+#: inc/woocommerce/plugin-sociovendors.php:10
+msgid "Socio Multi Vendor"
+msgstr ""
+
+#: inc/woocommerce/plugin-sociovendors.php:19
+#: inc/woocommerce/plugin-sociovendors.php:122
+msgid "SocioVendors - Vendor Store"
+msgstr ""
+
+#: inc/woocommerce/plugin-sociovendors.php:40
+#: inc/woocommerce/plugin-sociovendors.php:139
+msgid "SocioVendors - Shop Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-sociovendors.php:61
+msgid "SocioVendors - Single Product"
+msgstr ""
+
+#: inc/woocommerce/plugin-sociovendors.php:95
+#: inc/woocommerce/plugin-sociovendors.php:185
+msgid "SocioVendors - Cart Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-sociovendors.php:117
+msgid "SocioVendors"
+msgstr ""
+
+#: inc/woocommerce/plugin-sociovendors.php:156
+msgid "SocioVendors - Single Product Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-sociovendors.php:173
+msgid "SHOW \"Sold by\" at Product Meta"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:10
+#: inc/woocommerce/plugin-wcvendors.php:354
+#: inc/woocommerce/plugin-wcvendors.php:613
+#: inc/woocommerce/plugin-woovendors.php:461
+msgid "WC Vendors"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:19
+#: inc/woocommerce/plugin-wcvendors.php:359
+msgid "WC Vendors - Vendor Store"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:50
+#: inc/woocommerce/plugin-wcvendors.php:376
+msgid "SHOW Vendor Avatar (If Available) on Store Header"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:64
+#: inc/woocommerce/plugin-wcvendors.php:388
+msgid "SHOW Social and Contact Info on Store Header"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:79
+#: inc/woocommerce/plugin-wcvendors.php:401
+msgid "SHOW Vendor Address"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:85
+#: inc/woocommerce/plugin-wcvendors.php:101
+#: inc/woocommerce/plugin-wcvendors.php:116
+#: inc/woocommerce/plugin-wcvendors.php:131
+#: inc/woocommerce/plugin-wcvendors.php:409
+#: inc/woocommerce/plugin-wcvendors.php:423
+#: inc/woocommerce/plugin-wcvendors.php:436
+#: inc/woocommerce/plugin-wcvendors.php:449
+msgid "Logged In Only"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:95
+#: inc/woocommerce/plugin-wcvendors.php:415
+msgid "SHOW Vendor Phone Number"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:110
+#: inc/woocommerce/plugin-wcvendors.php:428
+msgid "SHOW Vendor Email"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:125
+#: inc/woocommerce/plugin-wcvendors.php:441
+msgid "SHOW Vendor URL"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:140
+#: inc/woocommerce/plugin-wcvendors.php:454
+msgid "WC Vendors - Shop Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:171
+msgid "WC Vendors - Single Product"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:189
+#: inc/woocommerce/plugin-wcvendors.php:476
+msgid "SHOW Store Header on Single Product"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:202
+#: inc/woocommerce/plugin-wcvendors.php:488
+msgid "SHOW Vendor Avatar (If Available) on Store Header (Single Product)"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:215
+#: inc/woocommerce/plugin-wcvendors.php:500
+msgid "SHOW Social and Contact Info on Store Header (Single Product)"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:293
+#: inc/woocommerce/plugin-wcvendors.php:572
+msgid "WC Vendors - Cart Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:325
+#: inc/woocommerce/plugin-wcvendors.php:590
+msgid "WC Vendors - Frontend Submission"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:333
+#: inc/woocommerce/plugin-wcvendors.php:594
+msgid "Frontend Submission Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:471
+msgid "WC Vendors - Single Product Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:656
+msgid "-- None --"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:726
+#: inc/woocommerce/plugin-woovendors.php:586
+msgid "Seller info"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:800
+msgid "Contact this seller"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:832
+msgid "Store Banner"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:893
+msgid "Store Icon"
+msgstr ""
+
+#: inc/woocommerce/plugin-woovendors.php:10
+msgid "WooCommerce Product Vendors"
+msgstr ""
+
+#: inc/woocommerce/plugin-woovendors.php:19
+#: inc/woocommerce/plugin-woovendors.php:276
+msgid "WooVendors - Vendor Store"
+msgstr ""
+
+#: inc/woocommerce/plugin-woovendors.php:50
+#: inc/woocommerce/plugin-woovendors.php:293
+msgid "SHOW Vendor Logo (If Available) on Store Header"
+msgstr ""
+
+#: inc/woocommerce/plugin-woovendors.php:64
+#: inc/woocommerce/plugin-woovendors.php:305
+msgid "SHOW Vendor Profile (If Available) on Store Header"
+msgstr ""
+
+#: inc/woocommerce/plugin-woovendors.php:78
+#: inc/woocommerce/plugin-woovendors.php:317
+msgid "SHOW Average Vendor Rating on Store Header"
+msgstr ""
+
+#: inc/woocommerce/plugin-woovendors.php:92
+#: inc/woocommerce/plugin-woovendors.php:329
+msgid "WooVendors - Shop Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-woovendors.php:131
+msgid "WooVendors - Single Product"
+msgstr ""
+
+#: inc/woocommerce/plugin-woovendors.php:222
+#: inc/woocommerce/plugin-woovendors.php:427
+msgid "WooVendors - Cart Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-woovendors.php:271
+msgid "WooVendors"
+msgstr ""
+
+#: inc/woocommerce/plugin-woovendors.php:354
+msgid "WooVendors - Single Product Page"
+msgstr ""
+
+#: sidebar-dokan.php:33
+msgid "Store Category"
+msgstr ""
+
+#: sidebar-dokan.php:36
+msgid "Store Location"
+msgstr ""
+
+#: sidebar-dokan.php:40
+msgid "Contact Seller"
+msgstr ""
+
+#: wc-vendors/block-nav-pro.php:17
+msgid "Dashboard"
+msgstr ""
+
+#: wc-vendors/block-nav-pro.php:25
+msgid "Products"
+msgstr ""
+
+#: wc-vendors/block-nav-pro.php:33
+msgid "Orders"
+msgstr ""
+
+#: wc-vendors/block-nav-pro.php:40 wc-vendors/dashboard/settings/settings.php:1
+msgid "Settings"
+msgstr ""
+
+#: wc-vendors/block-nav-pro.php:47
+msgid "Ratings"
+msgstr ""
+
+#: wc-vendors/block-nav-pro.php:55
+msgid "Coupons"
+msgstr ""
+
+#: wc-vendors/block-nav.php:4
+msgid "My Dashboard"
+msgstr ""
+
+#: wc-vendors/block-nav.php:11
+msgid "My Shop"
+msgstr ""
+
+#: wc-vendors/block-nav.php:18
+msgid "My Settings"
+msgstr ""
+
+#: wc-vendors/block-nav.php:29
+msgid "Submit a Product"
+msgstr ""
+
+#: wc-vendors/dashboard/links.php:1
+msgid "Control Center"
+msgstr ""
+
+#: wc-vendors/dashboard/links.php:4
+msgid "My shop"
+msgstr ""
+
+#: wc-vendors/dashboard/links.php:5
+msgid "My settings"
+msgstr ""
+
+#: wc-vendors/dashboard/links.php:10
+msgid "Submit a product"
+msgstr ""
+
+#: wc-vendors/dashboard/settings/settings.php:47
+msgid "Save"
+msgstr ""
+
+#: wc-vendors/store/store-ratings.php:28
+msgid "Customer Ratings"
+msgstr ""
+
+#: wc-vendors/store/store-ratings.php:64
+msgid "No ratings have been submitted for this vendor yet."
+msgstr ""
+
+#: woocommerce/block-top-content.php:21
+msgid "Sort by"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:29 woocommerce/cart/cross-sells.php:84
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/single-product/product-details-attributes.php:29
+#: woocommerce/single-product/product-details-attributes.php:75
+msgid "Weight"
+msgstr ""
+
+#: woocommerce/single-product/product-details-attributes.php:33
+#: woocommerce/single-product/product-details-attributes.php:79
+msgid "Dimensions"
+msgstr ""
+
+#: woocommerce/single-product/product-details-meta.php:19
+#: woocommerce/single-product/product-details-meta.php:22
+msgid "Category"
+msgid_plural "Categories"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/product-details-meta.php:20
+#: woocommerce/single-product/product-details-meta.php:23
+msgid "Tag"
+msgid_plural "Tags"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/product-details-sku.php:10
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:49
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:94
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/related.php:29
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:29
+#: woocommerce/single-product/up-sells.php:85
+msgid "You may also like&hellip;"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Marketica WP"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themeforest.net/item/marketica-marketplace-wordpress-theme/8988002"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "The Best Marketplace Themes For WordPress and WooCommerce."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "TokoPress"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.toko.press"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Contact"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "No Title"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Visual Composer + No Title"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page With Sidebar"
+msgstr ""
+
+#: block-search-dokanlivesearch.php:8
+msgctxt "placeholder"
+msgid "just type here &hellip;"
+msgstr ""
+
+#: block-search-product.php:8 block-search.php:8
+msgctxt "placeholder"
+msgid "type here and hit enter &hellip;"
+msgstr ""
+
+#: block-search-dokanlivesearch.php:8 block-search-product.php:8
+#: block-search.php:8
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1206
+#: inc/tgm/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2427
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2473
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""

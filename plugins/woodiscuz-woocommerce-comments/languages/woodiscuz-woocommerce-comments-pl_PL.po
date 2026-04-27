@@ -1,0 +1,895 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooDiscuz - WooCommerce Comments\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-23 10:14+0000\n"
+"PO-Revision-Date: 2020-10-23 10:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Source-Locale: pl_PL\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wpc.php\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: pl_PL\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: options/phrases-layouts/phrases-datetime.php:172
+msgid "\"Today\" text"
+msgstr "Tekst \"Dzisiaj\""
+
+#: options/wpc-options-serialize.php:334
+msgid "ago"
+msgstr "temu"
+
+#: options/phrases-layouts/phrases-datetime.php:161
+msgid "Ago text"
+msgstr "Tekst \"temu\""
+
+#: options/options-layouts/settings-general.php:42
+msgid "Allow comment editing for"
+msgstr "Pozwól na edytowanie komentarzy przez"
+
+#: options/options-layouts/settings-general.php:76
+msgid "Allow guests to vote on comments"
+msgstr "Zezwól gościom głosować na komentarze"
+
+#: wpc.php:413
+msgid "anonymous"
+msgstr "anonimowy"
+
+#: options/wpc-options.php:96 options/options-layouts/settings-style.php:2
+msgid "Background and Colors"
+msgstr "Tło i kolory"
+
+#: options/wpc-options-serialize.php:301
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: options/phrases-layouts/phrases-comment.php:177
+msgid "Cancel comment editing button text"
+msgstr "Tekst przycisku anulowania komentarza"
+
+#: options/phrases-layouts/phrases-form.php:47
+msgid "CAPTCHA Field"
+msgstr "Pole CAPTCHA"
+
+#: options/wpc-options.php:254
+msgid "Comment"
+msgstr "Komentarz"
+
+#: options/options-layouts/settings-style.php:44
+msgid "Comment Background Color"
+msgstr "Kolor tła komentarza"
+
+#: options/phrases-layouts/phrases-form.php:17
+msgid "Comment Field Join"
+msgstr "Pole komentarza dołącz"
+
+#: options/phrases-layouts/phrases-form.php:7
+msgid "Comment Field Start"
+msgstr "Pole komentarza rozpocznij"
+
+#: options/options-layouts/settings-style.php:22
+msgid "Comment Form Background Color"
+msgstr "Kolor tła formularza komentarza"
+
+#: options/phrases-layouts/phrases-comment.php:2
+msgid "Comment Template Phrases"
+msgstr "Komentarz szablonu fraz"
+
+#: options/options-layouts/settings-style.php:88
+msgid "Comment Text Color"
+msgstr "Kolor tekstu komentarza"
+
+#: options/options-layouts/settings-style.php:7
+msgid "Comment text size in pixels"
+msgstr "Tekst komentarza w pikselach"
+
+#: options/phrases-layouts/phrases-notification.php:127
+msgid "Comment waiting moderation"
+msgstr "Komentarz oczekuje na sprawdzenie"
+
+#: options/phrases-layouts/phrases-datetime.php:150
+msgid "Commented \"right now\" text"
+msgstr "Tekst skomentowany \"w tej chwili\""
+
+#: options/wpc-options-serialize.php:356
+msgid "Confirm Subscription"
+msgstr "Potwierdź subskrypcję"
+
+#: options/phrases-layouts/phrases-email.php:70
+#: options/phrases-layouts/phrases-email.php:74
+#: options/phrases-layouts/phrases-email.php:74
+msgid "Confirm your subscription"
+msgstr "Potwierdź subskrypcję"
+
+#: options/wpc-options-serialize.php:312
+msgid "Customer"
+msgstr "Klient"
+
+#: options/wpc-options.php:255
+msgid "Date/Time"
+msgstr "Data/Czas"
+
+#: options/phrases-layouts/phrases-datetime.php:2
+msgid "Date/Time Phrases"
+msgstr "Frazy Daty/Czasu"
+
+#: options/phrases-layouts/phrases-datetime.php:51
+msgid "Day"
+msgstr "Dzień"
+
+#: options/wpc-options-serialize.php:324
+msgid "day"
+msgstr "dzień"
+
+#: options/wpc-options-serialize.php:325
+msgid "days"
+msgstr "dni"
+
+#: options/phrases-layouts/phrases-datetime.php:62
+msgid "Days (Plural Form)"
+msgstr "Dni"
+
+#: options/wpc-options-serialize.php:289
+msgid "Discussions"
+msgstr "Dyskusje"
+
+#: options/phrases-layouts/phrases-general.php:7
+msgid "Disscussion Tab Title"
+msgstr "Tytuł zkładki dyskusji"
+
+#: options/wpc-options-serialize.php:300
+#: options/phrases-layouts/phrases-comment.php:27
+msgid "Edit"
+msgstr "Edytuj"
+
+#: options/wpc-options-serialize.php:293 options/wpc-options.php:256
+msgid "Email"
+msgstr "Email"
+
+#: options/wpc-options-serialize.php:319
+msgid "email address is invalid"
+msgstr "adres email jest nieprawidłowy"
+
+#: options/phrases-layouts/phrases-form.php:27
+msgid "Email Field"
+msgstr "Pole email"
+
+#: options/phrases-layouts/phrases-email.php:17
+msgid "Email Message"
+msgstr "Wiadomość email"
+
+#: options/phrases-layouts/phrases-email.php:7
+msgid "Email Subject"
+msgstr "Temat email"
+
+#: options/phrases-layouts/phrases-email.php:2
+msgid "Email Template Phrases"
+msgstr "Frazy zablonu email"
+
+#: options/phrases-layouts/phrases-notification.php:7
+msgid "Error message for empty field"
+msgstr "Wiadomość błędu dla niewypełnionego pola"
+
+#: options/phrases-layouts/phrases-notification.php:17
+msgid "Error message for invalid email field"
+msgstr "Wiadomość błędu dla nieprawidłowego adresu email"
+
+#: options/options-layouts/settings-style.php:25
+#: options/options-layouts/settings-style.php:47
+#: options/options-layouts/settings-style.php:69
+#: options/options-layouts/settings-style.php:91
+msgid "Example: #00ff00"
+msgstr "Przykład: #00ff00"
+
+#: options/wpc-options.php:253
+msgid "Form"
+msgstr "Formularz"
+
+#: options/phrases-layouts/phrases-form.php:2
+msgid "Form Template Phrases"
+msgstr "Frazy szablonu formularza"
+
+#: options/wpc-options.php:252
+msgid "General"
+msgstr "Ogólne"
+
+#: options/phrases-layouts/phrases-general.php:2
+msgid "General Phrases"
+msgstr "Frazy ogólne"
+
+#: options/options-layouts/settings-general.php:2
+msgid "General Settings"
+msgstr "Ustawienia główne"
+
+#: options/wpc-options.php:94
+msgid "General settings"
+msgstr "Ogólne ustawienia"
+
+#: options/wpc-options-serialize.php:290
+msgid "Got something to discuss?"
+msgstr "Masz coś do przedyskutowania?"
+
+#: options/wpc-options-serialize.php:310
+msgid "Guest"
+msgstr "Gość"
+
+#. Author of the plugin
+msgid "gVectors Team"
+msgstr ""
+
+#: options/wpc-options.php:31 options/wpc-options.php:143
+msgid "Hacker?"
+msgstr "Haker?"
+
+#: options/phrases-layouts/phrases-general.php:17
+msgid "Header"
+msgstr "Nagłówek"
+
+#: options/options-layouts/settings-general.php:95
+msgid ""
+"Help Woodiscuz to grow allowing people to recognize which comment plugin you "
+"use"
+msgstr ""
+
+#: wpc.php:808 options/wpc-options-serialize.php:355
+#: options/phrases-layouts/phrases-email.php:105
+msgid ""
+"Hi, <br/> You just subscribed for new comments on our website. This means "
+"you will receive an email when new comments are posted according to "
+"subscription option you've chosen. <br/> To activate, click confirm below. "
+"If you believe this is an error, ignore this message and we'll never bother "
+"you again."
+msgstr ""
+"Cześć, <br/> Subskrypcja nowych komentarzy na naszej stronie została włąsnie "
+"dokonana. To oznacza, że będziesz otrzymywać email kiedy nowe komentarze "
+"pojawią się pod sybskrybowaną treścią. <br/> W celu aktywowania kliknij "
+"potwierdzenie poniżej. Jeżeli otrzymujesz tą informację przez pomyłkę, "
+"zignoruj ją i nie będziemy Cię już więcej niepokoić."
+
+#: options/options-layouts/settings-show-hide.php:30
+msgid "Hide Author Titles"
+msgstr "Ukryj tytuły (funkcję) autorów"
+
+#: options/wpc-options-serialize.php:308
+#: options/phrases-layouts/phrases-comment.php:87
+msgid "Hide Replies"
+msgstr "Ukryj odpowiedzi"
+
+#: options/options-layouts/settings-show-hide.php:26
+msgid "Hide Reply button for Customers"
+msgstr "Ukryj przycisk odpowiedzi dla klientów"
+
+#: options/options-layouts/settings-show-hide.php:22
+msgid "Hide Reply button for Guests"
+msgstr "Ukryj przycisk odpowiedzi dla gości"
+
+#: options/options-layouts/settings-show-hide.php:14
+msgid "Hide Share Button"
+msgstr "Ukryj przyciski dzielenia się"
+
+#: options/options-layouts/settings-show-hide.php:34
+msgid "Hide Subscription"
+msgstr "Ukryj subskrypcję"
+
+#: options/options-layouts/settings-show-hide.php:18
+msgid "Hide the  CAPTCHA field"
+msgstr "Ukryj pole CAPTCHA"
+
+#: options/options-layouts/settings-show-hide.php:10
+msgid "Hide Voting buttons"
+msgstr "Ukryj przyciski głosowania"
+
+#: options/options-layouts/settings-show-hide.php:6
+msgid "Hide WooCommerce Review Tab"
+msgstr "Ukryj zakładkę recenzji WooCommerce"
+
+#: options/options-layouts/settings-general.php:50
+#: options/phrases-layouts/phrases-datetime.php:73
+msgid "Hour"
+msgstr "Godzinę"
+
+#: options/wpc-options-serialize.php:326
+msgid "hour"
+msgstr "godzina"
+
+#: options/options-layouts/settings-general.php:51
+#: options/options-layouts/settings-general.php:52
+msgid "Hours"
+msgstr "Godzin"
+
+#: options/wpc-options-serialize.php:327
+msgid "hours"
+msgstr "godziny"
+
+#: options/phrases-layouts/phrases-datetime.php:84
+msgid "Hours (Plural Form)"
+msgstr "Godziny"
+
+#. Author URI of the plugin
+msgid "http://gvectors.com/"
+msgstr ""
+
+#: options/wpc-options-serialize.php:357
+#: options/phrases-layouts/phrases-email.php:59
+#: options/phrases-layouts/phrases-email.php:63
+#: options/phrases-layouts/phrases-email.php:63
+msgid "Ignore Subscription"
+msgstr "Ignoruj subskrypcję"
+
+#: options/wpc-options-serialize.php:347
+#: options/phrases-layouts/phrases-notification.php:107
+msgid "Invalid Captcha Code"
+msgstr "Nieprawidłowy kod CAPTCHA"
+
+#: options/options-layouts/settings-general.php:14
+msgid "Is email field required? "
+msgstr "Czy pole email jest wymagane?"
+
+#: options/options-layouts/settings-general.php:10
+msgid "Is name field required?"
+msgstr "Czy pole imienia jest wymagane?"
+
+#: options/wpc-options-serialize.php:292
+msgid "Join the discussion"
+msgstr "Dołącz do dyskusji"
+
+#: options/options-layouts/settings-general.php:18
+msgid ""
+"Keep comment threads private for product author and thread starter. <br/> "
+"This option will not allow users reply in other users' threads, however "
+"those will be readable for all."
+msgstr ""
+"Uczyń wątki prywatnymi dla autora produktu i osoby rozpoczynającej wątek. "
+"<br /> To ustawienie nie zezwoli komentować innym osobom, jednak wątek "
+"pozostanie widoczny dla wszystkich."
+
+#: options/wpc-options-serialize.php:316
+msgid "Leave a Reply"
+msgstr "Zostaw odpowiedź"
+
+#: options/phrases-layouts/phrases-general.php:27
+msgid "Load More Button"
+msgstr "Załaduj wiecej przycisków"
+
+#: options/wpc-options-serialize.php:297
+msgid "Load More Comments"
+msgstr "Załaduj więcej komentarzy"
+
+#: options/phrases-layouts/phrases-notification.php:37
+msgid "Logged In"
+msgstr "Zalogowany"
+
+#: options/wpc-options-serialize.php:337
+msgid "logged in"
+msgstr "zalogowany"
+
+#: options/phrases-layouts/phrases-notification.php:87
+msgid "Login To Vote"
+msgstr "Zaloguj się by zagłosować"
+
+#: options/wpc-options-serialize.php:311
+msgid "Member"
+msgstr "Członek"
+
+#: options/phrases-layouts/phrases-notification.php:147
+msgid "Message if comment no longer possible to edit"
+msgstr "Wiadomość  kiedy komentarza nie można już dłużej edytować"
+
+#: options/phrases-layouts/phrases-notification.php:158
+msgid "Message if comment text not changed"
+msgstr "Wiadomość kiedy komentarz się nie zmienił"
+
+#: options/phrases-layouts/phrases-notification.php:137
+msgid "Message if comment was not updated"
+msgstr "Wiadomość kiedy komentarz nie został dodany"
+
+#: options/phrases-layouts/phrases-datetime.php:95
+msgid "Minute"
+msgstr "Minuta"
+
+#: options/wpc-options-serialize.php:328
+msgid "minute"
+msgstr "minuta"
+
+#: options/options-layouts/settings-general.php:48
+#: options/options-layouts/settings-general.php:49
+msgid "Minutes"
+msgstr "Minut"
+
+#: options/wpc-options-serialize.php:329
+msgid "minutes"
+msgstr "minuty"
+
+#: options/phrases-layouts/phrases-datetime.php:106
+msgid "Minutes (Plural Form)"
+msgstr "Minuty"
+
+#: options/phrases-layouts/phrases-datetime.php:29
+msgid "Month"
+msgstr "Miesiąc"
+
+#: options/wpc-options-serialize.php:322
+msgid "month"
+msgstr "miesiąc"
+
+#: options/wpc-options-serialize.php:323
+msgid "months"
+msgstr "miesiące"
+
+#: options/phrases-layouts/phrases-datetime.php:40
+msgid "Months (Plural Form)"
+msgstr "Miesiące"
+
+#: options/wpc-options-serialize.php:294
+msgid "Name"
+msgstr "Imię"
+
+#: options/phrases-layouts/phrases-form.php:37
+msgid "Name Field"
+msgstr "Pole imię"
+
+#: options/wpc-options-serialize.php:314
+msgid "New Comment"
+msgstr "Nowy komentarz"
+
+#: options/wpc-options-serialize.php:315
+msgid "New comment on the product discussion section you've been interested in"
+msgstr "Nowy komentarz w dyskusji o produkcie który Cię zainteresował"
+
+#: wpc.php:830 options/wpc-options-serialize.php:361
+#: options/phrases-layouts/phrases-email.php:115
+msgid "New Reply"
+msgstr "Nowa odpowiedź"
+
+#: options/phrases-layouts/phrases-email.php:122
+msgid "New Reply Message"
+msgstr "Wiadomość nowej odpowiedzi"
+
+#: wpc.php:831 options/wpc-options-serialize.php:362
+msgid "New reply on the discussion section you've been interested in"
+msgstr "Nowa odpowiedź w dyskusji która Cię inetersowała"
+
+#: options/phrases-layouts/phrases-email.php:111
+msgid "New Reply Subject"
+msgstr "Temat nowej odpowiedzi"
+
+#: options/options-layouts/settings-general.php:47
+msgid "Not Allow"
+msgstr "Nie pozwalaj"
+
+#: options/wpc-options.php:257
+msgid "Notification"
+msgstr "Powiadomienie"
+
+#: options/phrases-layouts/phrases-notification.php:2
+msgid "Notification Phrases"
+msgstr "Frazy powiadomień"
+
+#: options/wpc-options-serialize.php:353
+#: options/phrases-layouts/phrases-form.php:71
+msgid "Notify of new replies to this comment"
+msgstr "Powiadom o nowych odpowiedziach w tym komentarzu"
+
+#: options/phrases-layouts/phrases-form.php:67
+msgid "Notify on new replies (checkbox)"
+msgstr "Informuj o nowych odpowiedziach (pole zaznaczenia)"
+
+#: widgets/admin-form/form-woodiscuz-product-comments.php:10
+#: widgets/admin-form/form-woodiscuz-woocommerce-reviews.php:10
+msgid "Number:"
+msgstr "Numer:"
+
+#: options/options-layouts/settings-general.php:96
+msgid ""
+"Please check this option on to help Woodiscuz get more popularity as your "
+"thank to the hard work we do for you totally free. This option adds a very "
+"small (16x16px) icon under the comment section which will allow your site "
+"visitors recognize the name of comment solution you use."
+msgstr ""
+
+#: options/wpc-options-serialize.php:318
+msgid "please fill out this field to comment"
+msgstr "prosimy o wypełnienie tego pola, aby skomentować"
+
+#: options/wpc-options-serialize.php:295
+msgid "Please insert the code above to comment"
+msgstr "Proszę wpisać kod znajdujący się powyżej by skomentować"
+
+#: options/wpc-options-serialize.php:317
+msgid "Please, leave a reply on"
+msgstr "Proszę zostawić odpowiedź na"
+
+#: options/phrases-layouts/phrases-datetime.php:139
+msgid "Plural (Ex. user -> user + s)"
+msgstr "Mnoga (np. użytkownik -> użytkownicy)"
+
+#: options/wpc-options-serialize.php:296
+msgid "Post Comment"
+msgstr "Prześlij komentarz"
+
+#: options/options-layouts/settings-general.php:58
+msgid "Redirect first commenter to"
+msgstr "Przekieruj pierwszy komentarz do"
+
+#: options/wpc-options-serialize.php:298
+#: options/phrases-layouts/phrases-comment.php:7
+msgid "Reply"
+msgstr "Odpowiedz"
+
+#: options/options-layouts/settings-style.php:66
+msgid "Reply Background Color"
+msgstr "Kolor tła odpowiedzi"
+
+#: options/phrases-layouts/phrases-email.php:37
+msgid "Request for reply on purchased product [\"message\"]"
+msgstr "Prośba o odpowiedź po zamówieniu produktu [\"wiadomość\"]"
+
+#: options/phrases-layouts/phrases-email.php:27
+msgid "Request for reply on purchased product [\"subject\"]"
+msgstr "Prośba o odpowiedź po zamówieniu produktu [\"temat\"]"
+
+#: options/options-layouts/settings-general.php:72
+msgid "Requesting for comment on purchased product"
+msgstr "Wymagaj komentarza dla zamówionego produktu"
+
+#: options/wpc-options.php:124
+msgid "Reset Options"
+msgstr "Przywróć domyśle opcje"
+
+#: options/wpc-options-serialize.php:333
+msgid "right now"
+msgstr "teraz"
+
+#: options/wpc-options-serialize.php:332
+msgid "s"
+msgstr "s"
+
+#: options/wpc-options-serialize.php:302
+msgid "Save"
+msgstr "Zachowaj"
+
+#: options/wpc-options.php:125 options/wpc-options.php:285
+msgid "Save Changes"
+msgstr "Zapisz zmiany"
+
+#: options/phrases-layouts/phrases-comment.php:167
+msgid "Save edited comment button text"
+msgstr "Tekst przycisku zachowania komentarza"
+
+#: options/phrases-layouts/phrases-datetime.php:117
+msgid "Second"
+msgstr "Sekunda"
+
+#: options/wpc-options-serialize.php:330
+msgid "second"
+msgstr "sekunda"
+
+#: options/wpc-options-serialize.php:331
+msgid "seconds"
+msgstr "sekundy"
+
+#: options/phrases-layouts/phrases-datetime.php:128
+msgid "Seconds (Plural Form)"
+msgstr "Sekundy"
+
+#: options/options-layouts/settings-general.php:6
+msgid "Set the Discussion Tab as the first opened Tab"
+msgstr "Ustaw zakładkę dyskusji jako pierwszą otwartą zakładkę"
+
+#: options/wpc-options-serialize.php:299
+#: options/phrases-layouts/phrases-comment.php:17
+msgid "Share"
+msgstr "Podziel się"
+
+#: options/wpc-options-serialize.php:303
+#: options/phrases-layouts/phrases-comment.php:37
+msgid "Share On Facebook"
+msgstr "Podziel się na Facebooku"
+
+#: options/wpc-options-serialize.php:305
+#: options/phrases-layouts/phrases-comment.php:57
+msgid "Share On Google"
+msgstr "Podziel się na Google"
+
+#: options/wpc-options-serialize.php:307
+#: options/phrases-layouts/phrases-comment.php:77
+msgid "Share On Odnoklassniki"
+msgstr "Podziel się na Odnoklassniki"
+
+#: options/wpc-options-serialize.php:304
+#: options/phrases-layouts/phrases-comment.php:47
+msgid "Share On Twitter"
+msgstr "Podziel się na Twitterze"
+
+#: options/wpc-options-serialize.php:306
+#: options/phrases-layouts/phrases-comment.php:67
+msgid "Share On VKontakte"
+msgstr "Podziel się na VKontakte"
+
+#: options/wpc-options-serialize.php:309
+#: options/phrases-layouts/phrases-comment.php:97
+msgid "Show Replies"
+msgstr "Pokaż odpowiedzi"
+
+#: options/wpc-options.php:95 options/options-layouts/settings-show-hide.php:2
+msgid "Show/Hide Components"
+msgstr "Pokaż/Ukryj komponenty"
+
+#: options/wpc-options-serialize.php:348
+#: options/phrases-layouts/phrases-notification.php:117
+msgid "Some of field value is invalid"
+msgstr "Wartości pól niektórych formularzy nie są prawidłowe"
+
+#: options/wpc-options-serialize.php:350
+msgid "Sorry, the comment was not updated"
+msgstr "Przykro nam, komentarz nie został dodany"
+
+#: options/wpc-options-serialize.php:351
+msgid "Sorry, this comment no longer possible to edit"
+msgstr "Przykro nam, komentarz nie może być już edytowany"
+
+#: options/wpc-options-serialize.php:291
+msgid "Start the discussion"
+msgstr "Rozpocznij dyskusje"
+
+#: options/phrases-layouts/phrases-form.php:57
+msgid "Submit Button"
+msgstr "Przycisk prześlij"
+
+#: wpc.php:807 options/wpc-options-serialize.php:354
+#: options/phrases-layouts/phrases-email.php:94
+#: options/phrases-layouts/phrases-email.php:94
+msgid "Subscribe Confirmation"
+msgstr "Potwierdzenie subskrypcji"
+
+#: options/phrases-layouts/phrases-email.php:101
+msgid "Subscribe Confirmation Email Content"
+msgstr "Treść email potwierdzającego subskrypcję"
+
+#: options/phrases-layouts/phrases-email.php:90
+msgid "Subscribe Confirmation Email Subject"
+msgstr "Temat email potwierdzającego subskrypcję"
+
+#: options/wpc-options-serialize.php:313
+msgid "Support"
+msgstr "Doradca"
+
+#: options/options-layouts/settings-general.php:100
+msgid "Thank you!"
+msgstr ""
+
+#: widgets/widget-woodiscuz-comments.php:11
+msgid "This Widget displays woocommerce product comments"
+msgstr "Ten widget wyświetla komentarze produktu woocommerce"
+
+#: widgets/widget-woocommerce-reviews.php:11
+msgid "This Widget displays woocommerce recent reviews"
+msgstr "Ten widget wyświetla ostatnie recenzje woocommerce "
+
+#: options/phrases-layouts/phrases-comment.php:127
+msgid "Title For Customers"
+msgstr "Tytuł (funkcja) klienta"
+
+#: options/phrases-layouts/phrases-comment.php:107
+msgid "Title For Guests"
+msgstr "Tytuł (funkcja) gościa"
+
+#: options/phrases-layouts/phrases-comment.php:117
+msgid "Title For Members"
+msgstr "Tytuł (funkcja) członka"
+
+#: options/phrases-layouts/phrases-comment.php:137
+msgid "Title For Support"
+msgstr "Tytuł (funkcja) wsparcia"
+
+#: widgets/admin-form/form-woodiscuz-product-comments.php:2
+#: widgets/admin-form/form-woodiscuz-woocommerce-reviews.php:2
+msgid "Title:"
+msgstr "Tytuł:"
+
+#: options/phrases-layouts/phrases-notification.php:47
+msgid "To post a comment"
+msgstr "By opublikować komentarz"
+
+#: options/wpc-options-serialize.php:338
+msgid "to post a comment."
+msgstr "by opublikować komentarz."
+
+#: options/wpc-options-serialize.php:335
+msgid "today"
+msgstr "dzisiaj"
+
+#: options/wpc-options-serialize.php:360
+#: options/phrases-layouts/phrases-email.php:48
+#: options/phrases-layouts/phrases-email.php:52
+msgid "Unsubscribe"
+msgstr "Wypisz się"
+
+#: options/options-layouts/settings-general.php:88
+msgid "Use Plugin .PO/.MO files"
+msgstr "Użyj plików .PO/.MO wtyczki"
+
+#: options/options-layouts/settings-general.php:81
+msgid "Use WordPress Date/Time format"
+msgstr "Użyj formatu Data/Czas Wordpressa"
+
+#: options/options-layouts/settings-general.php:23
+msgid "Usergroups for User Title \"Support\""
+msgstr "Grupy osób dla Osób z tytułem \"Wsparcie\""
+
+#: options/wpc-options-serialize.php:341
+#: options/phrases-layouts/phrases-notification.php:57
+msgid "Vote Counted"
+msgstr "Głos zliczony"
+
+#: options/wpc-options-serialize.php:340
+#: options/phrases-layouts/phrases-comment.php:157
+msgid "Vote Down"
+msgstr "Skrytykuj"
+
+#: options/wpc-options-serialize.php:339
+#: options/phrases-layouts/phrases-comment.php:147
+msgid "Vote Up"
+msgstr "Pochwal"
+
+#: options/wpc-options-serialize.php:343
+#: options/phrases-layouts/phrases-notification.php:77
+msgid "Voting Error"
+msgstr "Błąd głosowania"
+
+#: wpc.php:263
+msgid "Woocomerce Review"
+msgstr "Recenzja Woocomerce"
+
+#. Description of the plugin
+msgid ""
+"WooCommerce product comments and discussion Tab. Allows your customers to "
+"discuss about your products and ask pre-sale questions. Adds a new "
+"\"Discussions\" Tab next to \"Reviews\" Tab. Your shop visitors will thank "
+"you for ability to discuss about your products directly on your website "
+"product page. WooDiscuz also allows to vote for comments and share products."
+msgstr ""
+"Zakładka komentarzy produktów i dyskusji WooCommerce. Pozwala Twoim klientom "
+"dyskutować o produktach i zadawać pytania przed zakupem. Dodaje nową "
+"zakładkę \"Dyskusje\" za zakładką \"Recenzje\". Odwiedzający Twój sklep będą "
+"wdzięczni za możliwość dyskusji o produktach bezpośrednio na Twojej stronie "
+"produktu. WooDiscuz pozwala równie oddawać głosy na komentarze i dzielić się "
+"produktami."
+
+#: wpc.php:262
+msgid "WooDiscuz"
+msgstr "WooDiscuz"
+
+#. Name of the plugin
+msgid "WooDiscuz - WooCommerce Comments"
+msgstr "WooDiscuz - Komentarze WooCommerce"
+
+#: options/wpc-options.php:241
+msgid "WooDiscuz Front-end Phrases"
+msgstr "Frazy nakładki WooDiscuz"
+
+#: options/wpc-options.php:73
+msgid "WooDiscuz General Settings"
+msgstr "Ogólne ustawienia WooDiscuz"
+
+#: options/options-layouts/settings-general.php:89
+msgid ""
+"WooDiscuz phrase system allows you to translate all front-end phrases. "
+"However if you have a multi-language website it'll not allow you to add more "
+"than one language translation. The only way to get it is the plugin "
+"translation files (.PO / .MO). If WooDiscuz has the languages you need you "
+"should check this option to disable phrase system and it'll automatically "
+"translate all phrases based on language files according to current language."
+msgstr ""
+"System fraz WooDiscuz pozwala na tłumaczenie wszystkich fraz widoku "
+"użytkownika. W przypadku stron wielojęzycznych nie zezwala na dodanie "
+"tłumaczenia więcej niż jednego języka. Jedynym sposobem jest dodanie do "
+"wtyczki plików tłumaczenia (.PO / .MO). Jeżeli WooDiscuz posiada pliki "
+"tłumaczenia w wymaganym języku, należy zaznaczyć tą opcję by wyłączyć system "
+"fraz a wszystkie frazy zostaną automatycznie przetłumaczone na podstawie "
+"plików tłumaczenia na podstawie obecnie ustawionego języka."
+
+#: widgets/widget-woodiscuz-comments.php:15
+#: widgets/widget-woodiscuz-comments.php:71
+msgid "Woodiscuz Recent Comments"
+msgstr "Ostatnie komentarze Woodiscuz"
+
+#: widgets/widget-woocommerce-reviews.php:14
+#: widgets/widget-woocommerce-reviews.php:69
+msgid "Woodiscuz Recent Reviews"
+msgstr "Ostatnie recenzje Woodiscuz"
+
+#: wpc.php:145
+msgid "WooDiscuz requires Woocommerce to be installed!"
+msgstr "Woodiscuz wymaga do instalacji Woocommerce!"
+
+#: options/options-layouts/settings-general.php:82
+msgid ""
+"WooDiscuz shows Human Readable date format. If you check this option it'll "
+"show the date/time format set in WordPress General Settings."
+msgstr ""
+"WooDiscuz pokazuje datę w formacie przyjaznym dla ludzi. Po zaznaczeniu tej "
+"opcji data/czas będą pokazywane w formacie ustawionym w głównych opcjach "
+"Wordpressa."
+
+#: options/phrases-layouts/phrases-datetime.php:7
+msgid "Year"
+msgstr "Rok"
+
+#: options/wpc-options-serialize.php:320
+msgid "year"
+msgstr "rok"
+
+#: options/phrases-layouts/phrases-datetime.php:22
+msgid "Years"
+msgstr "Lata"
+
+#: options/wpc-options-serialize.php:321
+msgid "years"
+msgstr "lata"
+
+#: options/phrases-layouts/phrases-datetime.php:18
+msgid "Years (Plural Form)"
+msgstr "Rok"
+
+#: options/wpc-options-serialize.php:346
+msgid "You are not allowed to vote for this comment"
+msgstr "Nie wolno Ci głosować na ten komentarz"
+
+#: options/phrases-layouts/phrases-notification.php:67
+msgid "You can vote only 1 time"
+msgstr "Możesz zagłosować tylko 1 raz"
+
+#: options/wpc-options-serialize.php:345
+msgid "You cannot vote for your comment"
+msgstr "Nie możesz głosować na swój komentarz"
+
+#: options/phrases-layouts/phrases-notification.php:97
+msgid "You Cannot Vote On Your Comment"
+msgstr "Nie możesz głosować w swoich komentarzach"
+
+#: options/wpc-options-serialize.php:336
+#: options/phrases-layouts/phrases-notification.php:27
+msgid "You must be"
+msgstr "Musisz byc"
+
+#: options/wpc-options-serialize.php:344
+msgid "You Must Be Logged In To Vote"
+msgstr "Musisz się zalogować by oddać głos"
+
+#: options/wpc-options-serialize.php:342
+msgid "You've already voted for this comment"
+msgstr "Twój głos na ten komentarz został już oddany"
+
+#: options/wpc-options-serialize.php:352
+msgid "You've not made any changes"
+msgstr "Nie dokonano żadnej zmiany"
+
+#: options/wpc-options-serialize.php:359
+#: options/phrases-layouts/phrases-email.php:80
+#: options/phrases-layouts/phrases-email.php:84
+msgid "You've successfully confirmed your subscription."
+msgstr "Potwierdzenie subskrypcji zakończone powodzeniem."
+
+#: options/wpc-options-serialize.php:358
+#: options/phrases-layouts/phrases-notification.php:168
+msgid "You've successfully unsubscribed."
+msgstr "Z powodzeniem anulowano subskrypcję."
+
+#: options/wpc-options-serialize.php:349
+msgid "Your Comment awaiting moderation"
+msgstr "Twój komentarz oczekuje na zatwierdzenie"

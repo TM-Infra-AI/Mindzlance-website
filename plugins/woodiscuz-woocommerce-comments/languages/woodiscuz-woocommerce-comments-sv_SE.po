@@ -1,0 +1,875 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooDiscuz - WooCommerce Comments\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-23 10:14+0000\n"
+"PO-Revision-Date: 2020-10-23 10:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: Swedish\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wpc.php\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Loco-Target-Locale: sv_SE\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: options/phrases-layouts/phrases-datetime.php:172
+msgid "\"Today\" text"
+msgstr "\"Idag\" text"
+
+#: options/wpc-options-serialize.php:334
+msgid "ago"
+msgstr "sedan"
+
+#: options/phrases-layouts/phrases-datetime.php:161
+msgid "Ago text"
+msgstr "Sedan text"
+
+#: options/options-layouts/settings-general.php:42
+msgid "Allow comment editing for"
+msgstr ""
+
+#: options/options-layouts/settings-general.php:76
+msgid "Allow guests to vote on comments"
+msgstr ""
+
+#: wpc.php:413
+msgid "anonymous"
+msgstr "anonym"
+
+#: options/wpc-options.php:96 options/options-layouts/settings-style.php:2
+msgid "Background and Colors"
+msgstr ""
+
+#: options/wpc-options-serialize.php:301
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: options/phrases-layouts/phrases-comment.php:177
+msgid "Cancel comment editing button text"
+msgstr ""
+
+#: options/phrases-layouts/phrases-form.php:47
+msgid "CAPTCHA Field"
+msgstr ""
+
+#: options/wpc-options.php:254
+msgid "Comment"
+msgstr "Kommentar"
+
+#: options/options-layouts/settings-style.php:44
+msgid "Comment Background Color"
+msgstr ""
+
+#: options/phrases-layouts/phrases-form.php:17
+msgid "Comment Field Join"
+msgstr ""
+
+#: options/phrases-layouts/phrases-form.php:7
+msgid "Comment Field Start"
+msgstr ""
+
+#: options/options-layouts/settings-style.php:22
+msgid "Comment Form Background Color"
+msgstr ""
+
+#: options/phrases-layouts/phrases-comment.php:2
+msgid "Comment Template Phrases"
+msgstr ""
+
+#: options/options-layouts/settings-style.php:88
+msgid "Comment Text Color"
+msgstr ""
+
+#: options/options-layouts/settings-style.php:7
+msgid "Comment text size in pixels"
+msgstr ""
+
+#: options/phrases-layouts/phrases-notification.php:127
+msgid "Comment waiting moderation"
+msgstr "Frågan väntar på godkännande"
+
+#: options/phrases-layouts/phrases-datetime.php:150
+msgid "Commented \"right now\" text"
+msgstr "Kommenterad \"just nu\" text"
+
+#: options/wpc-options-serialize.php:356
+msgid "Confirm Subscription"
+msgstr "Bekräfta prenumerationen"
+
+#: options/phrases-layouts/phrases-email.php:70
+#: options/phrases-layouts/phrases-email.php:74
+#: options/phrases-layouts/phrases-email.php:74
+msgid "Confirm your subscription"
+msgstr "Bekräfta din prenumeration"
+
+#: options/wpc-options-serialize.php:312
+msgid "Customer"
+msgstr "Kund"
+
+#: options/wpc-options.php:255
+msgid "Date/Time"
+msgstr "Datum/tid"
+
+#: options/phrases-layouts/phrases-datetime.php:2
+msgid "Date/Time Phrases"
+msgstr ""
+
+#: options/phrases-layouts/phrases-datetime.php:51
+msgid "Day"
+msgstr "Dag"
+
+#: options/wpc-options-serialize.php:324
+msgid "day"
+msgstr "dag"
+
+#: options/wpc-options-serialize.php:325
+msgid "days"
+msgstr "dagar"
+
+#: options/phrases-layouts/phrases-datetime.php:62
+msgid "Days (Plural Form)"
+msgstr "Dagar"
+
+#: options/wpc-options-serialize.php:289
+msgid "Discussions"
+msgstr "Frågor"
+
+#: options/phrases-layouts/phrases-general.php:7
+msgid "Disscussion Tab Title"
+msgstr ""
+
+#: options/wpc-options-serialize.php:300
+#: options/phrases-layouts/phrases-comment.php:27
+msgid "Edit"
+msgstr "Ändra"
+
+#: options/wpc-options-serialize.php:293 options/wpc-options.php:256
+msgid "Email"
+msgstr "E-post"
+
+#: options/wpc-options-serialize.php:319
+msgid "email address is invalid"
+msgstr "e-post adressen verkar inte vara giltlig"
+
+#: options/phrases-layouts/phrases-form.php:27
+msgid "Email Field"
+msgstr ""
+
+#: options/phrases-layouts/phrases-email.php:17
+msgid "Email Message"
+msgstr "E-post meddelande"
+
+#: options/phrases-layouts/phrases-email.php:7
+msgid "Email Subject"
+msgstr "E-post ämne"
+
+#: options/phrases-layouts/phrases-email.php:2
+msgid "Email Template Phrases"
+msgstr "E-post mall fraser"
+
+#: options/phrases-layouts/phrases-notification.php:7
+msgid "Error message for empty field"
+msgstr ""
+
+#: options/phrases-layouts/phrases-notification.php:17
+msgid "Error message for invalid email field"
+msgstr ""
+
+#: options/options-layouts/settings-style.php:25
+#: options/options-layouts/settings-style.php:47
+#: options/options-layouts/settings-style.php:69
+#: options/options-layouts/settings-style.php:91
+msgid "Example: #00ff00"
+msgstr ""
+
+#: options/wpc-options.php:253
+msgid "Form"
+msgstr ""
+
+#: options/phrases-layouts/phrases-form.php:2
+msgid "Form Template Phrases"
+msgstr ""
+
+#: options/wpc-options.php:252
+msgid "General"
+msgstr ""
+
+#: options/phrases-layouts/phrases-general.php:2
+msgid "General Phrases"
+msgstr ""
+
+#: options/options-layouts/settings-general.php:2
+msgid "General Settings"
+msgstr ""
+
+#: options/wpc-options.php:94
+msgid "General settings"
+msgstr "Generella inställningar"
+
+#: options/wpc-options-serialize.php:290
+msgid "Got something to discuss?"
+msgstr "Har du några frågor om denna produkt?"
+
+#: options/wpc-options-serialize.php:310
+msgid "Guest"
+msgstr "Gäst"
+
+#. Author of the plugin
+msgid "gVectors Team"
+msgstr ""
+
+#: options/wpc-options.php:31 options/wpc-options.php:143
+msgid "Hacker?"
+msgstr "Är du en hacker?"
+
+#: options/phrases-layouts/phrases-general.php:17
+msgid "Header"
+msgstr ""
+
+#: options/options-layouts/settings-general.php:95
+msgid ""
+"Help Woodiscuz to grow allowing people to recognize which comment plugin you "
+"use"
+msgstr ""
+
+#: wpc.php:808 options/wpc-options-serialize.php:355
+#: options/phrases-layouts/phrases-email.php:105
+msgid ""
+"Hi, <br/> You just subscribed for new comments on our website. This means "
+"you will receive an email when new comments are posted according to "
+"subscription option you've chosen. <br/> To activate, click confirm below. "
+"If you believe this is an error, ignore this message and we'll never bother "
+"you again."
+msgstr ""
+"Hejsan, <br/> Du har precis påbörjat en prenumeration för nya kommentarer. "
+"När någon lämnar en kommentar får du ett mail. <br/> För att aktivera din "
+"prenumeration, vänligen klicka på länken nedan. <br/> Har du fått detta mail "
+"av misstag? Bara ignorera detta mailet, vi kommer inte att skicka fler."
+
+#: options/options-layouts/settings-show-hide.php:30
+msgid "Hide Author Titles"
+msgstr ""
+
+#: options/wpc-options-serialize.php:308
+#: options/phrases-layouts/phrases-comment.php:87
+msgid "Hide Replies"
+msgstr "Göm svar"
+
+#: options/options-layouts/settings-show-hide.php:26
+msgid "Hide Reply button for Customers"
+msgstr ""
+
+#: options/options-layouts/settings-show-hide.php:22
+msgid "Hide Reply button for Guests"
+msgstr ""
+
+#: options/options-layouts/settings-show-hide.php:14
+msgid "Hide Share Button"
+msgstr ""
+
+#: options/options-layouts/settings-show-hide.php:34
+msgid "Hide Subscription"
+msgstr ""
+
+#: options/options-layouts/settings-show-hide.php:18
+msgid "Hide the  CAPTCHA field"
+msgstr ""
+
+#: options/options-layouts/settings-show-hide.php:10
+msgid "Hide Voting buttons"
+msgstr ""
+
+#: options/options-layouts/settings-show-hide.php:6
+msgid "Hide WooCommerce Review Tab"
+msgstr ""
+
+#: options/options-layouts/settings-general.php:50
+#: options/phrases-layouts/phrases-datetime.php:73
+msgid "Hour"
+msgstr "Timme"
+
+#: options/wpc-options-serialize.php:326
+msgid "hour"
+msgstr "timme"
+
+#: options/options-layouts/settings-general.php:51
+#: options/options-layouts/settings-general.php:52
+msgid "Hours"
+msgstr ""
+
+#: options/wpc-options-serialize.php:327
+msgid "hours"
+msgstr "timmar"
+
+#: options/phrases-layouts/phrases-datetime.php:84
+msgid "Hours (Plural Form)"
+msgstr "Timmar"
+
+#. Author URI of the plugin
+msgid "http://gvectors.com/"
+msgstr ""
+
+#: options/wpc-options-serialize.php:357
+#: options/phrases-layouts/phrases-email.php:59
+#: options/phrases-layouts/phrases-email.php:63
+#: options/phrases-layouts/phrases-email.php:63
+msgid "Ignore Subscription"
+msgstr "Ignorera prenumerationen"
+
+#: options/wpc-options-serialize.php:347
+#: options/phrases-layouts/phrases-notification.php:107
+msgid "Invalid Captcha Code"
+msgstr "Fel bildkod"
+
+#: options/options-layouts/settings-general.php:14
+msgid "Is email field required? "
+msgstr ""
+
+#: options/options-layouts/settings-general.php:10
+msgid "Is name field required?"
+msgstr ""
+
+#: options/wpc-options-serialize.php:292
+msgid "Join the discussion"
+msgstr "Anslut till frågetråden"
+
+#: options/options-layouts/settings-general.php:18
+msgid ""
+"Keep comment threads private for product author and thread starter. <br/> "
+"This option will not allow users reply in other users' threads, however "
+"those will be readable for all."
+msgstr ""
+
+#: options/wpc-options-serialize.php:316
+msgid "Leave a Reply"
+msgstr "LÄmna ett svar"
+
+#: options/phrases-layouts/phrases-general.php:27
+msgid "Load More Button"
+msgstr "Visa fler knapp"
+
+#: options/wpc-options-serialize.php:297
+msgid "Load More Comments"
+msgstr "Visa fler frågor"
+
+#: options/phrases-layouts/phrases-notification.php:37
+msgid "Logged In"
+msgstr "Inloggad"
+
+#: options/wpc-options-serialize.php:337
+msgid "logged in"
+msgstr "inloggad"
+
+#: options/phrases-layouts/phrases-notification.php:87
+msgid "Login To Vote"
+msgstr "Logga in för att rösta"
+
+#: options/wpc-options-serialize.php:311
+msgid "Member"
+msgstr "Medlem"
+
+#: options/phrases-layouts/phrases-notification.php:147
+msgid "Message if comment no longer possible to edit"
+msgstr ""
+
+#: options/phrases-layouts/phrases-notification.php:158
+msgid "Message if comment text not changed"
+msgstr ""
+
+#: options/phrases-layouts/phrases-notification.php:137
+msgid "Message if comment was not updated"
+msgstr ""
+
+#: options/phrases-layouts/phrases-datetime.php:95
+msgid "Minute"
+msgstr "Minut"
+
+#: options/wpc-options-serialize.php:328
+msgid "minute"
+msgstr "minut"
+
+#: options/options-layouts/settings-general.php:48
+#: options/options-layouts/settings-general.php:49
+msgid "Minutes"
+msgstr ""
+
+#: options/wpc-options-serialize.php:329
+msgid "minutes"
+msgstr "minuter"
+
+#: options/phrases-layouts/phrases-datetime.php:106
+msgid "Minutes (Plural Form)"
+msgstr "Minuter"
+
+#: options/phrases-layouts/phrases-datetime.php:29
+msgid "Month"
+msgstr "Månad"
+
+#: options/wpc-options-serialize.php:322
+msgid "month"
+msgstr "månad"
+
+#: options/wpc-options-serialize.php:323
+msgid "months"
+msgstr "månader"
+
+#: options/phrases-layouts/phrases-datetime.php:40
+msgid "Months (Plural Form)"
+msgstr "Månader"
+
+#: options/wpc-options-serialize.php:294
+msgid "Name"
+msgstr "Namn"
+
+#: options/phrases-layouts/phrases-form.php:37
+msgid "Name Field"
+msgstr ""
+
+#: options/wpc-options-serialize.php:314
+msgid "New Comment"
+msgstr "Ny kommentar"
+
+#: options/wpc-options-serialize.php:315
+msgid "New comment on the product discussion section you've been interested in"
+msgstr "Ny kommentar på den produktdiskussion som du har varit intresserad av"
+
+#: wpc.php:830 options/wpc-options-serialize.php:361
+#: options/phrases-layouts/phrases-email.php:115
+msgid "New Reply"
+msgstr "Bytt svar"
+
+#: options/phrases-layouts/phrases-email.php:122
+msgid "New Reply Message"
+msgstr ""
+
+#: wpc.php:831 options/wpc-options-serialize.php:362
+msgid "New reply on the discussion section you've been interested in"
+msgstr "Nytt svar på en fråga som du har varit intresserad av."
+
+#: options/phrases-layouts/phrases-email.php:111
+msgid "New Reply Subject"
+msgstr ""
+
+#: options/options-layouts/settings-general.php:47
+msgid "Not Allow"
+msgstr ""
+
+#: options/wpc-options.php:257
+msgid "Notification"
+msgstr "Notis"
+
+#: options/phrases-layouts/phrases-notification.php:2
+msgid "Notification Phrases"
+msgstr ""
+
+#: options/wpc-options-serialize.php:353
+#: options/phrases-layouts/phrases-form.php:71
+msgid "Notify of new replies to this comment"
+msgstr ""
+
+#: options/phrases-layouts/phrases-form.php:67
+msgid "Notify on new replies (checkbox)"
+msgstr ""
+
+#: widgets/admin-form/form-woodiscuz-product-comments.php:10
+#: widgets/admin-form/form-woodiscuz-woocommerce-reviews.php:10
+msgid "Number:"
+msgstr ""
+
+#: options/options-layouts/settings-general.php:96
+msgid ""
+"Please check this option on to help Woodiscuz get more popularity as your "
+"thank to the hard work we do for you totally free. This option adds a very "
+"small (16x16px) icon under the comment section which will allow your site "
+"visitors recognize the name of comment solution you use."
+msgstr ""
+
+#: options/wpc-options-serialize.php:318
+msgid "please fill out this field to comment"
+msgstr "vänligen fyll i detta fält för att kommentera"
+
+#: options/wpc-options-serialize.php:295
+msgid "Please insert the code above to comment"
+msgstr "Vänligen fyll i koden ovan"
+
+#: options/wpc-options-serialize.php:317
+msgid "Please, leave a reply on"
+msgstr "Vänligen lämna ett svar"
+
+#: options/phrases-layouts/phrases-datetime.php:139
+msgid "Plural (Ex. user -> user + s)"
+msgstr "PLural"
+
+#: options/wpc-options-serialize.php:296
+msgid "Post Comment"
+msgstr "Ställ fråga"
+
+#: options/options-layouts/settings-general.php:58
+msgid "Redirect first commenter to"
+msgstr ""
+
+#: options/wpc-options-serialize.php:298
+#: options/phrases-layouts/phrases-comment.php:7
+msgid "Reply"
+msgstr "Svara"
+
+#: options/options-layouts/settings-style.php:66
+msgid "Reply Background Color"
+msgstr ""
+
+#: options/phrases-layouts/phrases-email.php:37
+msgid "Request for reply on purchased product [\"message\"]"
+msgstr ""
+
+#: options/phrases-layouts/phrases-email.php:27
+msgid "Request for reply on purchased product [\"subject\"]"
+msgstr ""
+
+#: options/options-layouts/settings-general.php:72
+msgid "Requesting for comment on purchased product"
+msgstr ""
+
+#: options/wpc-options.php:124
+msgid "Reset Options"
+msgstr ""
+
+#: options/wpc-options-serialize.php:333
+msgid "right now"
+msgstr "just nu"
+
+#: options/wpc-options-serialize.php:332
+msgid "s"
+msgstr ""
+
+#: options/wpc-options-serialize.php:302
+msgid "Save"
+msgstr "Spara"
+
+#: options/wpc-options.php:125 options/wpc-options.php:285
+msgid "Save Changes"
+msgstr ""
+
+#: options/phrases-layouts/phrases-comment.php:167
+msgid "Save edited comment button text"
+msgstr ""
+
+#: options/phrases-layouts/phrases-datetime.php:117
+msgid "Second"
+msgstr "Sekund"
+
+#: options/wpc-options-serialize.php:330
+msgid "second"
+msgstr "sekund"
+
+#: options/wpc-options-serialize.php:331
+msgid "seconds"
+msgstr "sekunder"
+
+#: options/phrases-layouts/phrases-datetime.php:128
+msgid "Seconds (Plural Form)"
+msgstr "Sekunder"
+
+#: options/options-layouts/settings-general.php:6
+msgid "Set the Discussion Tab as the first opened Tab"
+msgstr ""
+
+#: options/wpc-options-serialize.php:299
+#: options/phrases-layouts/phrases-comment.php:17
+msgid "Share"
+msgstr "Dela"
+
+#: options/wpc-options-serialize.php:303
+#: options/phrases-layouts/phrases-comment.php:37
+msgid "Share On Facebook"
+msgstr "Dela på Facebook"
+
+#: options/wpc-options-serialize.php:305
+#: options/phrases-layouts/phrases-comment.php:57
+msgid "Share On Google"
+msgstr "Dela på Google+"
+
+#: options/wpc-options-serialize.php:307
+#: options/phrases-layouts/phrases-comment.php:77
+msgid "Share On Odnoklassniki"
+msgstr "Dela på Odnoklassniki"
+
+#: options/wpc-options-serialize.php:304
+#: options/phrases-layouts/phrases-comment.php:47
+msgid "Share On Twitter"
+msgstr "Dela på Twitter"
+
+#: options/wpc-options-serialize.php:306
+#: options/phrases-layouts/phrases-comment.php:67
+msgid "Share On VKontakte"
+msgstr "Dela på VKOntakte"
+
+#: options/wpc-options-serialize.php:309
+#: options/phrases-layouts/phrases-comment.php:97
+msgid "Show Replies"
+msgstr "Visa svar"
+
+#: options/wpc-options.php:95 options/options-layouts/settings-show-hide.php:2
+msgid "Show/Hide Components"
+msgstr ""
+
+#: options/wpc-options-serialize.php:348
+#: options/phrases-layouts/phrases-notification.php:117
+msgid "Some of field value is invalid"
+msgstr "Några av fälten är inte rätt"
+
+#: options/wpc-options-serialize.php:350
+msgid "Sorry, the comment was not updated"
+msgstr "Ledsen, denna kommentaren uppdaterades inte"
+
+#: options/wpc-options-serialize.php:351
+msgid "Sorry, this comment no longer possible to edit"
+msgstr "Ledsen, det går inte längre att ändra i denna kommentaren"
+
+#: options/wpc-options-serialize.php:291
+msgid "Start the discussion"
+msgstr "Ställ en fråga "
+
+#: options/phrases-layouts/phrases-form.php:57
+msgid "Submit Button"
+msgstr ""
+
+#: wpc.php:807 options/wpc-options-serialize.php:354
+#: options/phrases-layouts/phrases-email.php:94
+#: options/phrases-layouts/phrases-email.php:94
+msgid "Subscribe Confirmation"
+msgstr "Bekräfta prenumerationen"
+
+#: options/phrases-layouts/phrases-email.php:101
+msgid "Subscribe Confirmation Email Content"
+msgstr ""
+
+#: options/phrases-layouts/phrases-email.php:90
+msgid "Subscribe Confirmation Email Subject"
+msgstr ""
+
+#: options/wpc-options-serialize.php:313
+msgid "Support"
+msgstr "Support"
+
+#: options/options-layouts/settings-general.php:100
+msgid "Thank you!"
+msgstr "Tack!"
+
+#: widgets/widget-woodiscuz-comments.php:11
+msgid "This Widget displays woocommerce product comments"
+msgstr ""
+
+#: widgets/widget-woocommerce-reviews.php:11
+msgid "This Widget displays woocommerce recent reviews"
+msgstr ""
+
+#: options/phrases-layouts/phrases-comment.php:127
+msgid "Title For Customers"
+msgstr ""
+
+#: options/phrases-layouts/phrases-comment.php:107
+msgid "Title For Guests"
+msgstr ""
+
+#: options/phrases-layouts/phrases-comment.php:117
+msgid "Title For Members"
+msgstr ""
+
+#: options/phrases-layouts/phrases-comment.php:137
+msgid "Title For Support"
+msgstr ""
+
+#: widgets/admin-form/form-woodiscuz-product-comments.php:2
+#: widgets/admin-form/form-woodiscuz-woocommerce-reviews.php:2
+msgid "Title:"
+msgstr ""
+
+#: options/phrases-layouts/phrases-notification.php:47
+msgid "To post a comment"
+msgstr "För att ställa en fråga"
+
+#: options/wpc-options-serialize.php:338
+msgid "to post a comment."
+msgstr "för att skriva en kommentar."
+
+#: options/wpc-options-serialize.php:335
+msgid "today"
+msgstr "idag"
+
+#: options/wpc-options-serialize.php:360
+#: options/phrases-layouts/phrases-email.php:48
+#: options/phrases-layouts/phrases-email.php:52
+msgid "Unsubscribe"
+msgstr "Avsluta prenumeration"
+
+#: options/options-layouts/settings-general.php:88
+msgid "Use Plugin .PO/.MO files"
+msgstr ""
+
+#: options/options-layouts/settings-general.php:81
+msgid "Use WordPress Date/Time format"
+msgstr ""
+
+#: options/options-layouts/settings-general.php:23
+msgid "Usergroups for User Title \"Support\""
+msgstr ""
+
+#: options/wpc-options-serialize.php:341
+#: options/phrases-layouts/phrases-notification.php:57
+msgid "Vote Counted"
+msgstr "Rösten är räknad"
+
+#: options/wpc-options-serialize.php:340
+#: options/phrases-layouts/phrases-comment.php:157
+msgid "Vote Down"
+msgstr "Rösta ned"
+
+#: options/wpc-options-serialize.php:339
+#: options/phrases-layouts/phrases-comment.php:147
+msgid "Vote Up"
+msgstr "Rösta upp"
+
+#: options/wpc-options-serialize.php:343
+#: options/phrases-layouts/phrases-notification.php:77
+msgid "Voting Error"
+msgstr "Röst fel"
+
+#: wpc.php:263
+msgid "Woocomerce Review"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"WooCommerce product comments and discussion Tab. Allows your customers to "
+"discuss about your products and ask pre-sale questions. Adds a new "
+"\"Discussions\" Tab next to \"Reviews\" Tab. Your shop visitors will thank "
+"you for ability to discuss about your products directly on your website "
+"product page. WooDiscuz also allows to vote for comments and share products."
+msgstr ""
+
+#: wpc.php:262
+msgid "WooDiscuz"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooDiscuz - WooCommerce Comments"
+msgstr ""
+
+#: options/wpc-options.php:241
+msgid "WooDiscuz Front-end Phrases"
+msgstr ""
+
+#: options/wpc-options.php:73
+msgid "WooDiscuz General Settings"
+msgstr ""
+
+#: options/options-layouts/settings-general.php:89
+msgid ""
+"WooDiscuz phrase system allows you to translate all front-end phrases. "
+"However if you have a multi-language website it'll not allow you to add more "
+"than one language translation. The only way to get it is the plugin "
+"translation files (.PO / .MO). If WooDiscuz has the languages you need you "
+"should check this option to disable phrase system and it'll automatically "
+"translate all phrases based on language files according to current language."
+msgstr ""
+
+#: widgets/widget-woodiscuz-comments.php:15
+#: widgets/widget-woodiscuz-comments.php:71
+msgid "Woodiscuz Recent Comments"
+msgstr ""
+
+#: widgets/widget-woocommerce-reviews.php:14
+#: widgets/widget-woocommerce-reviews.php:69
+msgid "Woodiscuz Recent Reviews"
+msgstr ""
+
+#: wpc.php:145
+msgid "WooDiscuz requires Woocommerce to be installed!"
+msgstr ""
+
+#: options/options-layouts/settings-general.php:82
+msgid ""
+"WooDiscuz shows Human Readable date format. If you check this option it'll "
+"show the date/time format set in WordPress General Settings."
+msgstr ""
+
+#: options/phrases-layouts/phrases-datetime.php:7
+msgid "Year"
+msgstr "År"
+
+#: options/wpc-options-serialize.php:320
+msgid "year"
+msgstr "år"
+
+#: options/phrases-layouts/phrases-datetime.php:22
+msgid "Years"
+msgstr "År"
+
+#: options/wpc-options-serialize.php:321
+msgid "years"
+msgstr "år"
+
+#: options/phrases-layouts/phrases-datetime.php:18
+msgid "Years (Plural Form)"
+msgstr "År"
+
+#: options/wpc-options-serialize.php:346
+msgid "You are not allowed to vote for this comment"
+msgstr "Du får inte rösta på denna fråga"
+
+#: options/phrases-layouts/phrases-notification.php:67
+msgid "You can vote only 1 time"
+msgstr "Du kan bara rösta en gång"
+
+#: options/wpc-options-serialize.php:345
+msgid "You cannot vote for your comment"
+msgstr "Du kan inte rösta på din egen fråga"
+
+#: options/phrases-layouts/phrases-notification.php:97
+msgid "You Cannot Vote On Your Comment"
+msgstr "Du kan inte rösta på din egen fråga"
+
+#: options/wpc-options-serialize.php:336
+#: options/phrases-layouts/phrases-notification.php:27
+msgid "You must be"
+msgstr "Du behöver"
+
+#: options/wpc-options-serialize.php:344
+msgid "You Must Be Logged In To Vote"
+msgstr "Du måste vara inloggad för att kunna rösta"
+
+#: options/wpc-options-serialize.php:342
+msgid "You've already voted for this comment"
+msgstr "Du har redan röstat på denna frågan"
+
+#: options/wpc-options-serialize.php:352
+msgid "You've not made any changes"
+msgstr "Du har inte gjort några ändringar"
+
+#: options/wpc-options-serialize.php:359
+#: options/phrases-layouts/phrases-email.php:80
+#: options/phrases-layouts/phrases-email.php:84
+msgid "You've successfully confirmed your subscription."
+msgstr "Du har nu bekräftat din prenumeration."
+
+#: options/wpc-options-serialize.php:358
+#: options/phrases-layouts/phrases-notification.php:168
+msgid "You've successfully unsubscribed."
+msgstr "Din prenumeration är nu avslutad."
+
+#: options/wpc-options-serialize.php:349
+msgid "Your Comment awaiting moderation"
+msgstr "Din fråga väntar på godkännande"
